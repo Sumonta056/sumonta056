@@ -28,9 +28,9 @@ Hi!! This is Sumonta Saha Mridul currently studying **Software Engineering** in 
 
 #### 💻 Currently working on:
 
-- Vedio Editing
-- Photo Editing
-- Proficient in Microsoft Office 2019
+- Vedio Editing - Adobe Premire Pro
+- Photo Editing - Adobe Photoshop and Illustrator
+- Proficient in - Microsoft Office 2019
 
 
 ## Contact with me
@@ -43,6 +43,8 @@ Hi!! This is Sumonta Saha Mridul currently studying **Software Engineering** in 
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/klnedypmnqembsz3kbkl" alt="trackgit-views" />
 </a>
+
+<hr>
 
 <a href="http://khanshaheb.me/">
     <p align="center">
