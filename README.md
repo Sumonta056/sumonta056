@@ -26,6 +26,12 @@ Hi!! This is Sumonta Saha Mridul currently studying **Software Engineering** in 
 - Dart , Flutter
 - Git
 
+#### 💻 Currently working on:
+
+- Vedio Editing
+- Photo Editing
+- Proficient in Microsoft Office 2019
+
 
 ## Contact with me
 
@@ -38,4 +44,9 @@ Hi!! This is Sumonta Saha Mridul currently studying **Software Engineering** in 
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/klnedypmnqembsz3kbkl" alt="trackgit-views" />
 </a>
 
+<a href="http://khanshaheb.me/">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=sumonta056&column=7&theme=onedark%22\"/>
+    </p>
+</a>
 
