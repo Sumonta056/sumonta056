@@ -11,7 +11,7 @@ Hi!! This is Sumonta Saha Mridul currently studying **Software Engineering** in 
 
 <hr>
 
-## I'm a Student, Programmer, Developer, and Gamer!!
+## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
 - 🔭 I'm a begineer
 - 🌱 I’m currently learning everything 🤣
@@ -19,7 +19,7 @@ Hi!! This is Sumonta Saha Mridul currently studying **Software Engineering** in 
 - 🥅 2021 Goals: Learn python and create 50 projects
 - ⚡ Fun fact: I love playing vedio games 
 
-### Familiar With:
+### 😎 Familiar With:
 
 - Python
 - C++ , C
@@ -33,7 +33,7 @@ Hi!! This is Sumonta Saha Mridul currently studying **Software Engineering** in 
 - Proficient in - Microsoft Office 2019
 
 
-## Contact with me
+## 📞 Contact with me
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-SumontaSaha-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Sumonta-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sumonta.mridul/)
