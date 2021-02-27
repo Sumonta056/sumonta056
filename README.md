@@ -1,21 +1,21 @@
-### Hi there 👋
+### Welcome to my profile👋
 
 <p align='center'>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=sumonta056">
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&hide_border=true&layout=compact">
 <p/>
 
-<!--
-**Sumonta056/sumonta056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi!! This is Sumonta Saha Mridul currently studying Software Engineering in Shahjalal University of Science and Technology,Sylhet,Bangladesh
 
-Here are some ideas to get you started:
+### I'm also a proficient in Python , C++ and Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+## I'm a Student, Programmer, Developer, and Gamer!!
+
+- 🔭 I'm a begineer
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with many organization
+- 🥅 2020 Goals: Learn python and create 50 projects
+- ⚡ Fun fact: I love playing vedio games 
+
+
