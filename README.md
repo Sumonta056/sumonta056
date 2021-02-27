@@ -10,12 +10,24 @@
 ### I'm also a proficient in Python , C++ and Flutter
 
 <hr>
+
 ## I'm a Student, Programmer, Developer, and Gamer!!
 
 - 🔭 I'm a begineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with many organization
-- 🥅 2020 Goals: Learn python and create 50 projects
+- 🥅 2021 Goals: Learn python and create 50 projects
 - ⚡ Fun fact: I love playing vedio games 
+
+## Contact with me
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-SumontaSaha-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Sumonta-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sumonta.mridul/)
+[![Instaagram Follow](https://img.shields.io/badge/%20-__sumonta_saha-black?color=14171A&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_sumonta_saha_/)
+[![Twitter Follow](https://img.shields.io/badge/%20-@sumonta_saha-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/sumonta_saha)
+[![Email Address](https://img.shields.io/badge/%20-Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:sumontasaha80@gmail.com)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/klnedypmnqembsz3kbkl" alt="trackgit-views" />
+</a>
 
 
