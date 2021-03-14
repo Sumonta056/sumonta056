@@ -5,7 +5,9 @@
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=sumonta056">
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&hide_border=true&layout=compact">
 <p/>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <hr>
+
 
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
