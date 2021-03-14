@@ -4,7 +4,7 @@
 <img align='center' src="https://i.postimg.cc/d39J04km/Screenshot-12.png">
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=sumonta056">
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&hide_border=true&layout=compact">
-<img align='center' src = "https://platform.linkedin.com/badges/js/profile.jst">
+
 </p>
 <hr>
 
