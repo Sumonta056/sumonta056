@@ -6,6 +6,7 @@
 <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&hide_border=true&layout=compact">
 <p/>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="sumonta-saha-mridul-b35bb61a0"><a class="LI-simple-link" href='https://bd.linkedin.com/in/sumonta-saha-mridul-b35bb61a0?trk=profile-badge'>Sumonta Saha Mridul</a></div>
 <hr>
 
 
