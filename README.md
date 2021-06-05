@@ -5,8 +5,8 @@
 <img align='center' src= "https://i.postimg.cc/YCtRs1sR/Screenshot-35.png">
 <img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&show_icons=true&theme=tokyonight&count_private=true">
 <a target="_blank" href="https://github.com/sumonta056/sumonta056" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&layout=compact&theme=tokyonight" alt="Most Used Language" >
-  </a>
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&layout=compact&theme=tokyonight" alt="Most Used Language" >
+</a>
 
 </p>
 <hr>
