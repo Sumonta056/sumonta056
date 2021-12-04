@@ -18,15 +18,17 @@
 - 🔭 I'm a begineer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with many organization
-- 🥅 2021 Goals: Learn python and create 50 projects
+- 🥅 2021 Goals: Waiting for 2022
 - ⚡ Fun fact: I love playing vedio games 
 
 ### 😎 Familiar With:
 
 - Python
 - C++ , C
+- Java
 - Dart , Flutter
 - Git
+
 
 #### 💻 Currently working on:
 
@@ -55,7 +57,7 @@
 
 <hr>
 
-<a href="http://khanshaheb.me/">
+<a href=" ">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=sumonta056&column=7&theme=onedark%22\"/>
     </p>
