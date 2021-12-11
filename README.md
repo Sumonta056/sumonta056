@@ -15,11 +15,11 @@
 
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
-- 🔭 I'm a begineer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with many organization
+- 🔭 I'm a beginner
+- 🌱 I’m currently exploring and learning different things �
+- 👯 I’m looking to collaborate with any organization
 - 🥅 2021 Goals: Waiting for 2022
-- ⚡ Fun fact: I love playing vedio games 
+- ⚡ Fun fact: Why tell you?😏
 
 ### 😎 Familiar With:
 
@@ -49,7 +49,7 @@
 <a href="https://codeforces.com/profile/mr.scrappy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mr.scrappy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumonta056" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sumonta056" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/sumonta056" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sumonta056" height="30" width="40" /></a>
-<a href="https://discord.gg/sumonta#6516" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="sumonta#6516" height="30" width="40" /></a>
+<a href="https://discord.gg/sumonta#6516" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Mr_Scrappy#6516" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
