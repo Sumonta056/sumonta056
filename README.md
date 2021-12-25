@@ -15,13 +15,13 @@
 
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
-- 🔭 Studying Software Engineering(SWE) in Shahjalal University of Science and Technology(SUST)
+- 🔭 Studying Software Engineering in Shahjalal University of Science and Technology(SUST)
 - 🌱 I’m currently exploring and learning different things �
 - 👯 I’m looking to collaborate with any organization
-- 🥅 2021 Goals: Waiting for 2022
+- 🥅 2022 Goals: Make Strong CV
 - ⚡ Fun fact: Why tell you?😏
 
-### 😎 Familiar With:
+### 😎 Skills:
 
 - Python
 - C++ , C
@@ -30,11 +30,14 @@
 - Git
 
 
-#### 💻 Currently working on:
+#### 💻 Familiar with:
 
 - Vedio Editing - Adobe Premire Pro
 - Photo Editing - Adobe Photoshop and Illustrator
 - Proficient in - Microsoft Office 2019
+- VS Code and Studio
+- Intellij
+- Pycharm
 
 
 <h3 align="left">Connect with me:</h3>
