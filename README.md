@@ -16,9 +16,9 @@
 
 - 🔭 Studying Software Engineering in Shahjalal University of Science and Technology(SUST)
 - 🌱 I’m currently exploring and learning different things �
-- ✨ Also focusing problem solving and competitive programming
+- ✨ Also focusing on problem-solving and competitive programming
 - 👯 I’m looking to collaborate with any organization
-- 🥅 2022 Goals: Make Strong CV
+- 🥅 2022 Goals: Make a Strong CV
 - ⚡ Fun fact: Why tell you?😏
 
 ### 😎 Skills:
