@@ -12,11 +12,11 @@
 </p>
 <hr>
 
-
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
 - 🔭 Studying Software Engineering in Shahjalal University of Science and Technology(SUST)
 - 🌱 I’m currently exploring and learning different things �
+- ✨ Also focusing problem solving and competitive programming
 - 👯 I’m looking to collaborate with any organization
 - 🥅 2022 Goals: Make Strong CV
 - ⚡ Fun fact: Why tell you?😏
@@ -24,11 +24,12 @@
 ### 😎 Skills:
 
 - Python
-- C++ , C
+- C++ 
+- C
 - Java
-- Dart , Flutter
+- Dart 
+- Flutter
 - Git
-
 
 #### 💻 Familiar with:
 
