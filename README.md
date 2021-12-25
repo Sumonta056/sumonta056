@@ -3,9 +3,9 @@
 <p align='center'>
     
 <img align='center' src= "https://i.postimg.cc/YCtRs1sR/Screenshot-35.png">
-<img align='left' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&show_icons=true&theme=tokyonight&count_private=true">
+<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&show_icons=true&theme=tokyonight&count_private=true">
 <a target="_blank" href="https://github.com/sumonta056/sumonta056" class="rich-diff-level-one">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&layout=compact&theme=radical" >
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumonta056&layout=compact&theme=radical" >
 </a>
 
 
