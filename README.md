@@ -73,5 +73,5 @@
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/klnedypmnqembsz3kbkl" alt="trackgit-views" />
 </a></p><p align='center'><a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a> </p>
 
-<img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" ><img src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" >
+<img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width=100px" ><img src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" >
 
