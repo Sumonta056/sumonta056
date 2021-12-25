@@ -12,6 +12,8 @@
 </p>
 <hr>
 
+<img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
+
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
 - 🔭 Studying Software Engineering in Shahjalal University of Science and Technology(SUST)
@@ -24,7 +26,7 @@
 
 
 ### 😎 Skills:                                                                  
-- Python<img src="https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" width="15px">                             
+- Python                             
 - C++ 
 - C
 - Java
