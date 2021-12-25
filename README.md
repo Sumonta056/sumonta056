@@ -76,5 +76,5 @@
 
 <p align='center'>
 
-<img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="350px" ><img src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="350px">
+<img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="400px" ><img src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="400px">
 </p
