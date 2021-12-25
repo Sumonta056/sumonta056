@@ -21,9 +21,9 @@
 - 🥅 2022 Goals: Make a Strong CV
 - ⚡ Fun fact: Why tell you?😏
 
-### 😎 Skills:
+### 😎 Skills:                                                                  <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
 
-- Python                              <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px">
+- Python                              
 - C++ 
 - C
 - Java
