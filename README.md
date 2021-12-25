@@ -66,11 +66,11 @@
 
 <hr>
 
-<a href=" ">
+<!-- <a href=" ">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=sumonta056&column=7&theme=onedark%22\"/>
     </p>
-</a>
+</a> -->
 
 <hr>
 
