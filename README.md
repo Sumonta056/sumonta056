@@ -81,8 +81,9 @@
 
 <p align='center'>
 <img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="400px" ><img align='right' src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="400px">
+    <img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="400px">
 </p
     
 
-<img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif">
+
 
