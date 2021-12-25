@@ -24,7 +24,7 @@
 
 
 ### 😎 Skills:                                                                  
-- Python<img src="https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" width="25px">                             
+- Python<img src="https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" width="15px">                             
 - C++ 
 - C
 - Java
