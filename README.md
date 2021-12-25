@@ -12,7 +12,7 @@
 </p>
 <hr>
 
-<img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
+<img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
