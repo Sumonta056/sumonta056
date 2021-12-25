@@ -67,5 +67,5 @@
 
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> 
 <a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/klnedypmnqembsz3kbkl" alt="trackgit-views" />
-</a></p><p><a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a> </p>
+</a></p><p align='center'><a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a> </p>
 
