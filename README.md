@@ -20,9 +20,10 @@
 - 👯 I’m looking to collaborate with any organization
 - 🥅 2022 Goals: Make a Strong CV
 - ⚡ Fun fact: Why tell you?😏
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
 
-### 😎 Skills:                                                                  <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
 
+### 😎 Skills:                                                                  
 - Python                              
 - C++ 
 - C
