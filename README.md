@@ -13,7 +13,9 @@
 <hr>
 
 <p align='center'>
-<img align='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+<img align='left' src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" width="300px">
+    
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
  </p>
 
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
