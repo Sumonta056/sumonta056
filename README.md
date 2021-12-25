@@ -15,7 +15,7 @@
 
 ## I'm a Student, Programmer, Developer, and Gamer☯️!!
 
-- 🔭 I'm a beginner
+- 🔭 Studying Software Engineering(SWE) in Shahjalal University of Science and Technology(SUST)
 - 🌱 I’m currently exploring and learning different things �
 - 👯 I’m looking to collaborate with any organization
 - 🥅 2021 Goals: Waiting for 2022
