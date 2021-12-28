@@ -76,11 +76,12 @@
     </p>
 </a> -->
 
-<p align="centre">
-<img align='center' height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia" width="600"> 
-<img src='https://activity-graph.herokuapp.com/graph?username=sumonta056&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true' />
+<p align='center'>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=react&count_private=true" >
+  <img src="https://activity-graph.herokuapp.com/graph?username=sumonta056&theme=react-dark" >
+<p/>
 
-</p>
+
 <hr>
 
 <!-- <p align='center'> <img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> 
