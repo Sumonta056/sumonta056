@@ -6,8 +6,8 @@
 <p align='center'>
     
 <img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" />
-<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="450">
-<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia"> 
+<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="500">
+<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia" width="550"> 
 
     
 </p>
