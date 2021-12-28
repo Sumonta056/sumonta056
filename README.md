@@ -3,12 +3,9 @@
 <p align='center'>
     
 <img align='center' src= "https://i.postimg.cc/YCtRs1sR/Screenshot-35.png">
-<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&show_icons=true&theme=tokyonight&count_private=true">
-<a target="_blank" href="https://github.com/sumonta056/sumonta056" class="rich-diff-level-one">
 <img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" >
-</a>
-
-
+<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+    
 </p>
 <hr>
 
@@ -52,16 +49,15 @@
 <p align="center">
 <a href="https://twitter.com/sumonta_saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sumonta_saha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumonta-saha-mridul-b35bb61a0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sumonta-saha-mridul-b35bb61a0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sumonta-saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sumonta-saha" height="30" width="40" /></a>
 <a href="https://fb.com/sumonta.mridul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sumonta.mridul" height="30" width="40" /></a>
 <a href="https://instagram.com/_sumonta_saha_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sumonta_saha_" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/mr.scrappy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mr.scrappy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sumonta056" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumonta056" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sumonta056" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sumonta056" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mr.scrappy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mr.scrappy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumonta056" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sumonta056" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sumonta056" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sumonta056" height="30" width="40" /></a>
 <a href="https://discord.gg/sumonta#6516" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Mr_Scrappy#6516" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sumonta-saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sumonta-saha" height="30" width="40" /></a>
 </p>
+
 
 
 
