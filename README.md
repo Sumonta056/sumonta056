@@ -8,10 +8,8 @@
 </p>
 <p align='center'>
 <img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" />
-<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="500">
-<img align='center' height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia" width="600"> 
-
-    
+<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="400">
+   
 </p>
 <hr>
 
@@ -79,6 +77,7 @@
 </a> -->
 
 <p align="centre">
+<img align='center' height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia" width="600"> 
 <img src='https://activity-graph.herokuapp.com/graph?username=sumonta056&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true' />
 
 </p>
@@ -93,8 +92,8 @@
 
 
 <p align='center'>
-<img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="400px" ><img align='right' src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="400px">
-    <img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" >
+<img align='center' img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="400px" ><img align='right' src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="400px">
+<img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" >
 </p
     
 
