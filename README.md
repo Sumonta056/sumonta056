@@ -1,4 +1,5 @@
-# <i>Welcome to my profile</i><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Sumonta Saha Mridul </h1>
+
 
 <p align='center'>
     
@@ -71,6 +72,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=sumonta056&column=7&theme=onedark%22\"/>
     </p>
 </a> -->
+
 <p align='center'>
 <img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia" /> 
 </p>
