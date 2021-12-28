@@ -1,11 +1,14 @@
+<img align='center' src= "https://i.postimg.cc/YCtRs1sR/Screenshot-35.png">
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Sumonta Saha Mridul </h1>
 
 
 <p align='center'>
     
-<img align='center' src= "https://i.postimg.cc/YCtRs1sR/Screenshot-35.png">
 <img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" >
+<img align='center'  src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia" /> 
 <img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+
     
 </p>
 <hr>
@@ -74,7 +77,7 @@
 </a> -->
 
 <p align='center'>
-<img alt="Mark streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&layout=compact&langs_count=8&theme=algolia" /> 
+
 </p>
 <hr>
 
