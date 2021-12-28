@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" width="350"/>
+<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" width="300"/>
 </p>
 
 <p align='center'>
