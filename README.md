@@ -1,5 +1,5 @@
-<img align='center' src= "https://i.postimg.cc/YCtRs1sR/Screenshot-35.png">
-
+<img align='center' src= "https://i.postimg.cc/9QcqSJqW/header.png">
+<!-- https://i.postimg.cc/YCtRs1sR/Screenshot-35.png -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I am Sumonta Saha Mridul </h1>
 <p align="center" width="150px"> I am currently studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b> <br>Besides, I am focusing on  problem solving and a little bit on self-development.</p>
 
@@ -21,7 +21,7 @@
 
 ## <i>I'm a Student, Programmer, Developer, and Gamer☯️</i>!!
 
-- 🔭 Studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>
+- 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b>
 - 🌱 I’m currently exploring and learning different things😁
 - ✨ Also focusing on problem-solving and competitive programming
 - 👯 I’m looking to collaborate with any organization
