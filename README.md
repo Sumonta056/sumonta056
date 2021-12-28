@@ -6,11 +6,15 @@
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> 
 </p>
+
 <p align='center'>
 <img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" />
-<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="500">
-   
 </p>
+
+<p align='center'>
+<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="400"> 
+</p>
+
 <hr>
 
 <p align='center'>
