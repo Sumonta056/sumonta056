@@ -82,6 +82,7 @@
 <h1 align="center"><b><i>Contribution Stack</i></b> </h1>
 
 <p align='center'>
+ [![wakatime](https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg)](https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9)
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=react&count_private=true" >
   <img src="https://activity-graph.herokuapp.com/graph?username=sumonta056&theme=react-dark" >
 <p/>
@@ -103,6 +104,6 @@
 </p
     
 
-[![wakatime](https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg)](https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9)
 
-{<img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="wakatime" />}[https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9]
+
+
