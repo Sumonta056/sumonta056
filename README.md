@@ -103,5 +103,6 @@
 </p
     
 
+[![wakatime](https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg)](https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9)
 
-
+{<img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="wakatime" />}[https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9]
