@@ -21,18 +21,26 @@
 
 <p align='center'>
 <!-- <img align='center' src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="450px">  -->
-<img align ='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align ='center' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200">
 </p>
 
 ## <i>I'm a Student, Programmer, Developer, and Gamer☯️</i>!!
 
-- 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b>
-- 🌱 I’m currently exploring and learning different things😁
-- ✨ Also focusing on problem-solving and competitive programming
-- 👯 I’m looking to collaborate with any organization
-- 🥅 <i><b>2022 Goals</b></i>: Make a Strong CV
-- ⚡ Fun fact: Why tell you?😏
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
+
+<p align='left'>
+- 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b><br>
+- 🌱 I’m currently exploring and learning different things😁<br>
+- ✨ Also focusing on problem-solving and competitive programming<br>
+- 👯 I’m looking to collaborate with any organization<br>
+- 🥅 <i><b>2022 Goals</b></i>: Make a Strong CV<br>
+- ⚡ Fun fact: Why tell you?😏<br>
+</p>
+
+ <p align = 'center'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
+</p>
+
+
 
 
 ## <i>😎 Skills:      </i>                                                            
