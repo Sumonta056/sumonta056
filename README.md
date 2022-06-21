@@ -118,7 +118,7 @@
 
 
 <p align='center'>
-<img align='center' img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="400px" ><img align='right' src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="400px">
+<img align='left' img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="300px" ><img align='right' src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="300px">
 <img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" >
 </p
     
