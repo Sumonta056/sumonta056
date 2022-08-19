@@ -3,6 +3,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I am Sumonta Saha Mridul </h1>
 <p align="center" width="150px"> I am currently studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b> <br>Besides, I am focusing on  problem solving and a little bit on self-development.</p>
 
+<p align = "center"> <a href = "https://drive.google.com/file/d/1UVsSV6-mgUJGqQ2nQY7utY3oF-EZWdS6/view?usp=sharing" ><b>[Here is my CV]</b></a> </p>
+
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> <br>
 <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9" />
