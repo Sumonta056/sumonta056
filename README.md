@@ -119,12 +119,10 @@
 </p>
 
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
+<img align='left' src= "https://metrics.lecoq.io/sumonta056" > 
+<img align='rightr' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
 
-<p align='center'>
-<img align='center' src= "https://metrics.lecoq.io/sumonta056"  > 
-</p>
 
 
 
