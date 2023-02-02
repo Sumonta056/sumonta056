@@ -119,10 +119,18 @@
 </p>
 
 <p align='center'>
-<img align='left' src= "https://metrics.lecoq.io/sumonta056" > 
-<img align='rightr' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
+<img align='center' src= "https://metrics.lecoq.io/sumonta056" > 
 </p>
 
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
+</p>
+
+
+<h2 align="center"><b><i>✍️ Random Dev Quote</i></b> </h2>
+<p align="center">
+<img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 
 
