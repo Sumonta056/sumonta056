@@ -73,12 +73,30 @@
 
 ## <i>📞 Connect with me</i>
 
-<p align='center'>
-<a href="https://twitter.com/sumonta_saha" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>
-<a href="https://linkedin.com/in/sumonta-saha-mridul-b35bb61a0" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" /></a>
-<a href="https://fb.com/sumonta.mridul" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%" /></a>
-<a href="https://instagram.com/_sumonta_saha_" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" /></a> 
-</p>
+<div align="left">
+  <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://fb.com/sumonta.mridul" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/_sumonta_saha_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+8801845359479" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://twitter.com/sumonta_saha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  <a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  />
+  </a>
+</div>
 
  
 ## <i>🙋‍♂️ Passionate About </i> 
