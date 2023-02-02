@@ -55,7 +55,13 @@
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ## <i>💻 Familiar with: </i>
+
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif"  >
+</p>
+
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -66,7 +72,7 @@
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## <i>Connect with me:</i>
+## <i>📞 Connect with me</i>
 
 <p align='center'>
 <a href="https://twitter.com/sumonta_saha" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/></a>
@@ -76,17 +82,13 @@
 </p>
 
  
-## <i>Passionate About </i>
- 
+## <i>🙋‍♂️ Passionate About </i> 
 <p align = 'center'>
 <b>Coding - Travelling - Photography </b>
 </p>
 
 
-
-<hr>
-<h1 align="center"><b><i>Contribution Stack</i></b> </h1>
-
+<h2 align="leftt"><b><i>✌️Contribution Stack</i></b> </h2>
 <p align='center'>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=react&count_private=true" >
 <img src="https://activity-graph.herokuapp.com/graph?username=sumonta056&theme=react-dark" >
