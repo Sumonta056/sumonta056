@@ -37,8 +37,8 @@
 - 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b><br>
 - 🌱 I’m currently exploring and learning different things😁<br>
 - ✨ Also focusing on problem-solving and development <br>
-- 👯 May be good at a software and game development 😃<br>
-- 🥅 <i><b>2023 Goals</b></i>: Get ready for Intership and participate in more competitions❤️ <br>
+- 👯 May be good at software and game development 😃<br>
+- 🥅 <i><b>2023 Goals</b></i>: Get ready for Internship and participate in more competitions❤️ <br>
 - ⚡ Fun fact: Why tell you?😏<br>
 </p>
 
