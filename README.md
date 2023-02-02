@@ -16,13 +16,12 @@
 <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9" />
 </p>
 
- 
 <p align='center'>
-<img align='center' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumonta056&layout=compact&langs_count=8&theme=algolia" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false&username=sumonta056"  width="450" height="180" alt="languages graph"  />
 </p>
 
 <p align='center'>
-<img align='center' src= "https://github-readme-stats.vercel.app/api?username=sumonta056&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20" width="420"> 
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&username=sumonta056" height="200" alt="stats graph"  />
 </p>
 
 <hr>
@@ -105,14 +104,9 @@
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
 
-
-<!-- <p align='center'>
-<img align='center' img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="300px" height="300px"><img align='center' src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="300px" height="300px">
-<img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" >
+<p align='center'>
+<img align='center' src= "https://metrics.lecoq.io/sumonta056"  > 
 </p>
- -->
-
-    
 
 
 
