@@ -90,9 +90,9 @@
 <br>
 <h2 align="center"><b><i>✌️Contribution Stack</i></b> </h2>
 <p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" >
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=react&count_private=true" >
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" >
+<img  src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=react&count_private=true" >
+<img  src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <hr>
 
