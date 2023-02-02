@@ -100,12 +100,17 @@
 <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a> 
 </p>
 
-
 <p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
+</p>
+
+
+<!-- <p align='center'>
 <img align='center' img src="https://media.giphy.com/media/esZ3XoMUr7ilG/giphy.gif" width="300px" height="300px"><img align='center' src="https://media.giphy.com/media/kT1XesVhXxEOFMs7j2/giphy.gif" width="300px" height="300px">
 <img align='center' src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" >
-<img align='center' src="https://media.tenor.com/8Y1OBCtpf4AAAAAj/spider-man-no-way-home-marvel-studios.gif" >
 </p>
+ -->
+
     
 
 
