@@ -103,7 +103,7 @@
  
 ## <i>🙋‍♂️ Passionate About </i> 
 <p align = 'center'>
-<b>Coding - Travelling - Photography </b>
+<b>💻Coding - ✈️Travelling - 📸Photography </b>
 </p>
 
 <br>
