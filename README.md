@@ -134,7 +134,7 @@
 <h2 align="center"><b><i>✍️ Random Dev Quote</i></b> </h2>
 <p align="center">
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img align="center" src="https://i.postimg.cc/pT9z7RRZ/My-photography-s.gif">
 </p>
-
 
 
