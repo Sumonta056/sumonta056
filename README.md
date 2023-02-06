@@ -4,7 +4,8 @@
 
 <p align="center" width="150px"> 
  I am currently studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b> <br>
- Besides, I am focusing on  problem solving and a little bit on self-development.
+ Besides, I am a <b>Software Developer💻</b> with a passion for coding and problem solving.<br>
+ I also love <b>photography📸</b> as a creative outlet and capturing the world around me
 </p>
 
 <p align = "center"> 
