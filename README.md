@@ -9,7 +9,7 @@
 </p>
 
 <p align = "center"> 
-<a href = "https://drive.google.com/file/d/1UVsSV6-mgUJGqQ2nQY7utY3oF-EZWdS6/view?usp=sharing" ><b>[Here is my CV]</b></a> 
+<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><b>[Here is my CV]</b></a> 
 </p>
 
 <p align='center'>
