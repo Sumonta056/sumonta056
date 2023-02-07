@@ -121,9 +121,8 @@
 <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a> 
 </p>
 
-<p align='center'>
-<img align='center' src= "https://metrics.lecoq.io/sumonta056" > 
-</p>
+![myimge](1.png)
+![myimge](2.png)
 
 <hr>
 <p align='center'>
@@ -136,6 +135,3 @@
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 </p>
-
-![myimge](1.png)
-![myimge](2.png)
