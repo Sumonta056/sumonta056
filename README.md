@@ -118,9 +118,9 @@
 
 
 <p align='center'>
-<!-- <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a> <br> -->
-<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png"/></a> 
-<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" /></a> 
+<!-- <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a>  -->
+<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
+<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png"  /></a> 
 </p>
 
 <!-- ![myimge](1.png)
