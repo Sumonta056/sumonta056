@@ -136,3 +136,6 @@
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 </p>
+
+![myimge](1.png)
+![myimge](2.png)
