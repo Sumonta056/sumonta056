@@ -112,6 +112,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=react&count_private=true" >
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
+<p align="center">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=react" width="700" >
+</p>
 <hr>
 
 
