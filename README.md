@@ -1,8 +1,8 @@
 <img align='center' src= "https://i.postimg.cc/9QcqSJqW/header.png">
 <div align="center">
-<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="220" height="40"/></a>
-<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="250" height="40"/></a>
-<a href = "https://sumonta056.github.io/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="250" height="40"/></a>
+<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"</a>
+<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="260" height="35"</a>
+<a href = "https://sumonta056.github.io/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="240"height="35"</a>
 </div>
 
 
