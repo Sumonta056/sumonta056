@@ -9,7 +9,12 @@
 </p>
 
 <p align = "center"> 
-<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><b>[Here is my CV]</b></a> 
+<img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" alt="https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing"/>
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" alt="https://medium.com/me/stories/public"/>
+<img src="https://img.shields.io/badge/Website-My%20Portfolio-red" alt="https://sumonta056.github.io/"/>
+
+<!--  <a href = "https://medium.com/me/stories/public" ><b>[ Read My Blogs ]</b></a><br>
+<a href = "https://sumonta056.github.io/" ><b>[ Checkout My Portfolio ]</b></a><br> -->
 </p>
 
 <p align='center'>
