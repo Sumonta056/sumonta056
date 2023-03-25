@@ -8,14 +8,13 @@
  I also love <b>photography📸</b> as a creative outlet and capturing the world around me
 </p>
 
-<p align = "center"> 
-<img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" alt="https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing"/>
-<img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" alt="https://medium.com/me/stories/public"/>
-<img src="https://img.shields.io/badge/Website-My%20Portfolio-red" alt="https://sumonta056.github.io/"/>
 
-<!--  <a href = "https://medium.com/me/stories/public" ><b>[ Read My Blogs ]</b></a><br>
-<a href = "https://sumonta056.github.io/" ><b>[ Checkout My Portfolio ]</b></a><br> -->
-</p>
+<div align="center">
+<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue"/></a>
+<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen"/></a>
+<a href = "https://sumonta056.github.io/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red"/></a>
+</div><br>
+
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> <br>
