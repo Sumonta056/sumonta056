@@ -39,7 +39,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200">
 </p>
 
-## <i>I'm a Student, Programmer, Developer, and Gamer ☺️😉😊</i>!!
+## <i>I'm a Student, Programmer, Developer, and Photographer😉😊</i>!!
 
 <p align='left'>
 - 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b><br>
