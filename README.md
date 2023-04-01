@@ -1,8 +1,8 @@
 <img align='center' src= "https://i.postimg.cc/9QcqSJqW/header.png">
 <div align="center">
-<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"</a>
-<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="260" height="35"</a>
-<a href = "https://sumonta056.github.io/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="240"height="35"</a>
+<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="180" height="35"</a>
+<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"</a>
+<a href = "https://sumonta056.github.io/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"</a>
 </div>
 
 
@@ -39,7 +39,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200">
 </p>
 
-## <i>I'm a Student, Programmer, Developer, and Photographer😉😊</i>!!
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Software+Engineer+Student;I+am+also+a+Software+Developer+;Love+to+take+Photos+and+write+blogs)](https://git.io/typing-svg)
 
 <p align='left'>
 - 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b><br>
@@ -123,7 +123,7 @@
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=react" width="700" >
 </p>
 <hr>
-
+ 
 
 <p align='center'>
 <!-- <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a>  -->
@@ -140,7 +140,6 @@
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
 
-
 <h2 align="center"><b><i>✍️ Random Dev Quote</i></b> </h2>
 <p align = 'center'>
 <img align='center' src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="400px">
@@ -150,4 +149,13 @@
 </p>
 
 
+<br>
+ 
+ # Read My Blogs on [@medium](https://medium.com/@sumontasaha80)
 
+<p align = 'right'>
+<img align='right' src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="450px">
+</p>
+
+
+[![Sumonta Saha Medium](https://github-readme-medium.vercel.app/?username=sumontasaha80&limit=3)](https://medium.com/@sumontasaha80)
