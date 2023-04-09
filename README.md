@@ -135,6 +135,12 @@
 ![myimge](2.png) -->
 ![e](3.gif)
 
+<div align="center">
+<h1>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h1>
+ 
+<a href = "https://medium.com/@sumontasaha80" ><img src="https://i.postimg.cc/26PZ6zS0/gg.png"></a>
+</div>
+ 
 <hr>
 <p align='center'>
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
@@ -151,11 +157,4 @@
 
 <br>
  
- # ✍🏻 Read My Blogs on [@medium](https://medium.com/@sumontasaha80)
 
-<p align = 'right'>
-<img align='right' src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="400px">
-</p>
-
-
-[![Sumonta Saha Medium](https://github-readme-medium.vercel.app/?username=sumontasaha80&limit=3)](https://medium.com/@sumontasaha80)
