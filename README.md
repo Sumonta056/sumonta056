@@ -32,7 +32,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sumonta056&theme=moltack&show_icons=true" height="200" alt="stats graph"  />
 </p>
 
-<hr>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <p align='center'>
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300px" height="200">
@@ -50,7 +51,7 @@
 - ⚡ Fun fact: Why tell you?😏<br>
 </p>
 
-## <i>😎 Skills:      </i>      
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills:      </i>      
 
 <p align = 'right'>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px">
@@ -77,7 +78,7 @@
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## <i>📞 Connect with me</i>
+## <i>📞 Connect with me 
 
 <div align="left">
   <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
@@ -112,8 +113,9 @@
 <b>💻Coding - ✈️Travelling - 📸Photography </b>
 </p>
 
-<br>
-<h2 align="center"><b><i>✌️Contribution Stack</i></b> </h2>
+
+<hr>
+<h2 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h2>
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=react&count_private=true" >
@@ -122,18 +124,27 @@
 <p align="center">
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=react" width="700" >
 </p>
-<hr>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br> 
  
 
+<div align="center">
+<h1> 📸 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h1>
+</div>
+
+<!-- ![myimge](1.png)
+![myimge](2.png) -->
+![e](3.gif)
+ 
 <p align='center'>
 <!-- <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a>  -->
 <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
 <a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png"  /></a> 
 </p>
 
-<!-- ![myimge](1.png)
-![myimge](2.png) -->
-![e](3.gif)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br> 
 
 <div align="center">
 <h1>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h1>
@@ -157,4 +168,5 @@
 
 <br>
  
-<img height="120" alt="Wishing you Good Luck 🤞" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!-- Text Animation -->
+<!-- <img height="120" alt="Wishing you Good Luck 🤞" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
