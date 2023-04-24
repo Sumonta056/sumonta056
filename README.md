@@ -31,6 +31,12 @@
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=sumonta056&theme=moltack&show_icons=true" height="200" alt="stats graph"  />
 </p>
+ 
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=solarized"  />
+    
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=solarized"  />
+</p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
