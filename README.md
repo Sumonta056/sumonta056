@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&theme=moltack&show_icons=true" height="200" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&theme=moltack&show_icons=true"  width="45%" alt="stats graph"  />
 </p>
  
 <p align="center">
