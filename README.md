@@ -21,8 +21,10 @@
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> <br>
-<img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9" />
+<a herf = "https://wakatime.com/@sumonta056"><img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@956d8c63-e07e-46bf-b197-9bbb31d68aa9" /> </a>
 </p>
+ 
+
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=moltack&hide_border=false&username=sumonta056"  width="450" height="180" alt="languages graph"  />
@@ -33,7 +35,8 @@
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" />
+<a herf = "https://wakatime.com/@sumonta056">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" /></a>
 </p>
  
 <p align="center">
