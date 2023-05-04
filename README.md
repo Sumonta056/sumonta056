@@ -36,7 +36,7 @@
  
 <p align="center">
 <a herf = "https://wakatime.com/@sumonta056">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
 </p>
  
 <p align="center">
