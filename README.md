@@ -134,9 +134,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=gotham&count_private=true" >
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=gotham" width="700" >
-</p>
+</p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br> 
