@@ -178,8 +178,7 @@
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
-
-<br>
+[![An image of @sumonta056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumonta056)](https://holopin.io/@sumonta056)
  
 <!-- Text Animation -->
 <!-- <img height="120" alt="Wishing you Good Luck 🤞" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
