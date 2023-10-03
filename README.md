@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I am Sumonta Saha Mridul </h1>
+<h1 align="center">Hi👋, I am Sumonta Saha Mridul </h1>
 
 
 <p align="center" width="150px"> 
@@ -177,6 +177,8 @@
 <p align="center">
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
+
+<h1 align="center"><b>🏆 Hacktoberfest 2023 Participation Badges 🏆</b> </h1>
 
 [![An image of @sumonta056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumonta056)](https://holopin.io/@sumonta056)
  
