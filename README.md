@@ -144,7 +144,7 @@
 </p>
 
 
-
+<hr>
 
 <h2 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h2>
 <p align="center">
