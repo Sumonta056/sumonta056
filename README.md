@@ -45,13 +45,21 @@
  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"><b>🏆Open Source Hacktoberfest 2023 Participation Badges 🏆</b> </h1>
+<h2 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h2><br>
 
-[![An image of @sumonta056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumonta056)](https://holopin.io/@sumonta056)
+[![An image of @sumonta056's Holopin badges, which is a link to view their full Holopin profile](https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af)](https://holopin.io/@sumonta056)
+
+
 <hr>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2><br>
+
+![wb](https://github.com/Sumonta056/sumonta056/assets/61287791/9680d192-ec4f-46db-bd13-7f03a57005e3)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
@@ -180,15 +188,19 @@
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
 
-<h2 align="center"><b><i>✍️ Random Dev Quote</i></b> </h2>
+
+
+
+
+
+
+<!--<h2 align="center"><b><i>✍️ Random Dev Quote</i></b> </h2>
 <p align = 'center'>
 <img align='center' src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="400px">
 </p>
 <p align="center">
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
-
-
+</p>-->
  
 <!-- Text Animation -->
 <!-- <img height="120" alt="Wishing you Good Luck 🤞" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
