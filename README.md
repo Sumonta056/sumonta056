@@ -45,8 +45,17 @@
  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
+
+<h1 align="center"><b>🏆Open Source Hacktoberfest 2023 Participation Badges 🏆</b> </h1>
+
+[![An image of @sumonta056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumonta056)](https://holopin.io/@sumonta056)
+<hr>
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+
+
+
+
 
 <p align='center'>
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300px" height="200">
@@ -127,7 +136,8 @@
 </p>
 
 
-<hr>
+
+
 <h2 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h2>
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
@@ -178,9 +188,7 @@
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
 
-<h1 align="center"><b>🏆 Hacktoberfest 2023 Participation Badges 🏆</b> </h1>
 
-[![An image of @sumonta056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumonta056)](https://holopin.io/@sumonta056)
  
 <!-- Text Animation -->
 <!-- <img height="120" alt="Wishing you Good Luck 🤞" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
