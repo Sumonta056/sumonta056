@@ -130,7 +130,7 @@
   <a href="https://twitter.com/sumonta_saha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@sumontasaha1624" target="_blank">
+  <a href="https://www.youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
   </a>
   <a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" target="_blank">
