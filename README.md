@@ -28,7 +28,8 @@
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=moltack&hide_border=false&username=sumonta056"  width="450" height="180" alt="languages graph"  />
-</p>
+</p> 
+
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=sumonta056&theme=moltack&show_icons=true"  width="45%" alt="stats graph"  />
@@ -147,9 +148,20 @@
 <hr>
 
 <h2 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h2>
+
+<p align='center'>
+<img align="center" src="https://api.githubtrends.io/user/svg/Sumonta056/langs?time_range=one_year&use_percent=True&group=other&compact=True&theme=classic" >
+</p>
+
+<p align='center'>
+<img align="center" src="https://api.githubtrends.io/user/svg/Sumonta056/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"  width="400px" >
+</p>
+
+
+
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=gotham&count_private=true" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=synthwaves&count_private=true" >
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <!-- <p align="center">
@@ -187,6 +199,7 @@
 <p align='center'>
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
+
 
 
 
