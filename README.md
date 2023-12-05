@@ -147,7 +147,7 @@
 
 <hr>
 
-<h2 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h2>
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
 <p align='center'>
 <img align="center" src="https://api.githubtrends.io/user/svg/Sumonta056/langs?time_range=one_year&use_percent=True&group=other&compact=True&theme=classic" >
@@ -164,6 +164,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=synthwaves&count_private=true" >
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
+
+![github-wrapped](https://github.com/Sumonta056/sumonta056/assets/61287791/f24e8449-d6b6-4938-bdfc-d7ed632ba8e8)
+
 <!-- <p align="center">
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=gotham" width="700" >
 </p> -->
@@ -200,7 +203,6 @@
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
 
-![github-wrapped](https://github.com/Sumonta056/sumonta056/assets/61287791/f24e8449-d6b6-4938-bdfc-d7ed632ba8e8)
 
 
 
