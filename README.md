@@ -146,7 +146,7 @@
  
 ## <i>🙋‍♂️ Passionate About </i> 
 <p align = 'left'>
-<b>💻Coding - ✈️Travelling - 📸Photography </b>
+    <b>💻Coding - ✈️Travelling - 📸Photography </b>
 </p>
 
 
@@ -161,11 +161,11 @@
 </p>
 -->
 
-
+<!-- 
 <p align='center'>
 <img align="center" src="https://api.githubtrends.io/user/svg/Sumonta056/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"  width="400px" >
 </p>
-
+-->
 
 
 
@@ -180,9 +180,9 @@
 ![github-wrapped](https://github.com/Sumonta056/sumonta056/assets/61287791/f24e8449-d6b6-4938-bdfc-d7ed632ba8e8)
 -->
 
-<!-- <p align="center">
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=gotham" width="700" >
-</p> -->
+<p align="center">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=gotham" width="600" >
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
