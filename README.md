@@ -26,9 +26,13 @@
  
 
 
+<!-- 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=moltack&hide_border=false&username=sumonta056"  width="450" height="180" alt="languages graph"  />
 </p> 
+
+-->
+
 
 
 <p align='center'>
@@ -71,8 +75,8 @@
 
 
 <p align='center'>
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300px" height="200">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Software+Engineer+Student;I+am+also+a+Software+Developer+;Love+to+take+Photos+and+write+blogs)](https://git.io/typing-svg)
@@ -141,22 +145,27 @@
 
  
 ## <i>🙋‍♂️ Passionate About </i> 
-<p align = 'center'>
+<p align = 'left'>
 <b>💻Coding - ✈️Travelling - 📸Photography </b>
 </p>
 
 
-<hr>
 
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
+
+
+<!-- 
 <p align='center'>
 <img align="center" src="https://api.githubtrends.io/user/svg/Sumonta056/langs?time_range=one_year&use_percent=True&group=other&compact=True&theme=classic" >
 </p>
+-->
+
 
 <p align='center'>
 <img align="center" src="https://api.githubtrends.io/user/svg/Sumonta056/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=classic"  width="400px" >
 </p>
+
 
 
 
@@ -166,11 +175,15 @@
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 
+
+<!-- 
 ![github-wrapped](https://github.com/Sumonta056/sumonta056/assets/61287791/f24e8449-d6b6-4938-bdfc-d7ed632ba8e8)
+-->
 
 <!-- <p align="center">
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=gotham" width="700" >
 </p> -->
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br> 
