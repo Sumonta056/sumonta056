@@ -179,10 +179,7 @@
 <!-- 
 ![github-wrapped](https://github.com/Sumonta056/sumonta056/assets/61287791/f24e8449-d6b6-4938-bdfc-d7ed632ba8e8)
 -->
-
-<p align="center">
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=gotham" width="600" >
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=sumonta056)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
