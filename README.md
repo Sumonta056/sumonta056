@@ -203,8 +203,10 @@
 
 <div align="center">
 <h1>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h1>
- 
-<a href = "https://medium.com/@sumontasaha80" ><img src="https://i.postimg.cc/26PZ6zS0/gg.png"></a>
+
+![[blog](https://medium.com/@sumontasaha80)](https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519)
+
+
 </div>
  
 <hr>
