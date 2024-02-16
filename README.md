@@ -277,10 +277,6 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=AtomSense-DU_ITVerse_Hackathon\&title_color=DD8484\&icon_color=DD0D4F\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Kiddo-LU-Hackathon\&title_color=DD8484\&icon_color=DD0D4F\&text_color=A6A6A6\&theme=monokai)
 
-<h4 align="center"> ✨ Most Stars Projects</h4>
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=GitHub-Tutorial\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
-
 <h4 align="center"> 📸 Personal Projects Projects</h4>
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Mri-Shot\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=ReactJS-Simplify-Template\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
@@ -294,7 +290,10 @@
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Survive-IT\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Survival-of-Warrior\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
 
+<h4 align="center"> ✨ Most Stars Projects</h4>
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=GitHub-Tutorial\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
 
 </div>
 
