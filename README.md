@@ -255,10 +255,13 @@
 <!-- Blog Section -->
 <div align="center">
 <h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h2>
-<p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px"  > 
-</p>
 <a href="https://medium.com/@sumontasaha80" target="_blank">
     <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519" width="90%" alt="Blogs Loading"/></a>
 </div>
 <!-- Blog Section -->
+
+<!-- Footer -->
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px"  > 
+</p>
+<!-- Footer -->
