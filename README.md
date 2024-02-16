@@ -92,7 +92,7 @@
 
  <!-- Banners 3rd Phase : About Me -->
 <p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20%">
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
 </p>
  <!-- Banners 3rd Phase : About Me -->
 
@@ -113,7 +113,7 @@
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="20%">
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="35%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
@@ -139,7 +139,7 @@
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="20%">
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="35%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
@@ -240,12 +240,12 @@
 <!-- Photography Section -->
 <div align="center">
 <h1> 📸 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h1>
-<img src="images/Photography/3.gif" width="80%" >
+<img src="images/Photography/3.gif" width="90%" >
 </div>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
-<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" width="20%" /></a> 
-<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="20%" /></a> 
+<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" width="35%" /></a> 
+<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
 </p>
 <!-- Instagram + Twitter FollowLinks -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -256,13 +256,13 @@
 <div align="center">
 <h1>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h1>
 <a href="https://medium.com/@sumontasaha80" target="_blank">
-    <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519" width="70%" alt="Blogs Loading"/></a>
+    <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519" width="90%" alt="Blogs Loading"/></a>
 </div>
 <hr>
 <!-- Blog Section -->
  
 <!-- Footer -->
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="500px"  > 
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px"  > 
 </p>
 <!-- Footer -->
