@@ -32,7 +32,8 @@
 
  <!-- Github Readme Stats -->
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&theme=moltack&show_icons=true"  width="45%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<!-- ![Sumonta stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&rank_icon=percentile\&show=prs_merged,prs_merged_percentage\&theme=moltack) -->
 </p>
  <!-- Github Readme Stats -->
 
@@ -46,7 +47,6 @@
   <!-- Github Profile Summary Cards -->
 <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
-    
  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
@@ -296,4 +296,18 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
 
 </div>
+
+
+*   Hiding specific stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&hide=contribs,issues)
+
+*   Showing additional stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+
+
+*   Include All Commits
+
 
