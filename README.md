@@ -67,7 +67,7 @@
  <!--Google Foobar -->
 <hr>
 
-<h2 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2><br>
+<h2 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
 
 <div align="center"><b>🌱 Successfully Passed Level Two and Continuing... 🌱</b> </div><br>
 
@@ -107,14 +107,13 @@
 </p>
  <!-- About Me -->
 
-  <!-- Banners 4th Phase : SpiderMan -->
+<!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif"  >
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
 <!-- Skill Section -->
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
 ##### 🦖 Competitive Programming
@@ -136,6 +135,12 @@
 ##### 🌸 CSS Design & Frameworks
 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![Saass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=whitee)&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
+<!-- Banners 4th Phase : SpiderMan -->
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px">
+</p>
+<!-- Banners 4th Phase : SpiderMan -->
 
 ##### 🎉 Machine Learning
 
