@@ -92,7 +92,7 @@
 
  <!-- Banners 3rd Phase : About Me -->
 <p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px">
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20%">
 </p>
  <!-- Banners 3rd Phase : About Me -->
 
@@ -113,7 +113,7 @@
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px">
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="20%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
@@ -139,7 +139,7 @@
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px">
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="20%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
@@ -168,6 +168,7 @@
 
 ## <i>📞 Connect with me
 
+<p align="center">
   <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
@@ -199,6 +200,7 @@
   <a href="https://leetcode.com/Sumonta056/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  />
   </a>
+  </p>
 </div>
 <!-- Skill Section -->
 
@@ -220,14 +222,14 @@
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=synthwaves&count_private=true" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumonta056&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <!-- Contribution Statistics and Visuals -->
 
 <!-- Activity Graph -->
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sumonta056)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=monokai)
 
 <!-- Activity Graph -->
 
@@ -238,14 +240,12 @@
 <!-- Photography Section -->
 <div align="center">
 <h1> 📸 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h1>
+<img src="images/Photography/3.gif" width="80%" >
 </div>
-
-![e](images/Photography/3.gif)
-
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
-<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
-<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png"  /></a> 
+<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" width="20%" /></a> 
+<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="20%" /></a> 
 </p>
 <!-- Instagram + Twitter FollowLinks -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -255,15 +255,14 @@
 <!-- Blog Section -->
 <div align="center">
 <h1>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h1>
-
-![[blog](https://medium.com/@sumontasaha80)](https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519)
-
+<a href="https://medium.com/@sumontasaha80" target="_blank">
+    <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519" width="70%" alt="Blogs Loading"/></a>
 </div>
 <hr>
 <!-- Blog Section -->
  
 <!-- Footer -->
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="500px"  > 
 </p>
 <!-- Footer -->
