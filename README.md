@@ -229,7 +229,7 @@
 
 <!-- Activity Graph -->
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=monokai)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=tokyo-day)
 
 <!-- Activity Graph -->
 
@@ -239,7 +239,7 @@
 
 <!-- Photography Section -->
 <div align="center">
-<h1> 📸 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h1>
+<h2> 📸 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h2>
 <img src="images/Photography/3.gif" width="90%" >
 </div>
 <!-- Instagram + Twitter FollowLinks -->
@@ -254,7 +254,7 @@
 
 <!-- Blog Section -->
 <div align="center">
-<h1>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h1>
+<h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h2>
 <a href="https://medium.com/@sumontasaha80" target="_blank">
     <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519" width="90%" alt="Blogs Loading"/></a>
 </div>
