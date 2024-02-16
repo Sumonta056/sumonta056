@@ -258,6 +258,7 @@
 <a href="https://medium.com/@sumontasaha80" target="_blank">
     <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519" width="90%" alt="Blogs Loading"/></a>
 </div>
+<hr>
 <!-- Blog Section -->
 
 <!-- Footer -->
@@ -265,3 +266,21 @@
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px"  > 
 </p>
 <!-- Footer -->
+
+<div align='center'>
+
+<h4 align="center"> 🏆 Best Projects </h4>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Rent_IT-App\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SUST_Autorickshaw_Management_System\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
+
+<h4 align="center"> 🔖 1 Day Hackathon Projects </h4>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=AtomSense-DU_ITVerse_Hackathon\&title_color=DD8484\&icon_color=DD0D4F\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Kiddo-LU-Hackathon\&title_color=DD8484\&icon_color=DD0D4F\&text_color=A6A6A6\&theme=monokai)
+
+<h4 align="center"> ✨ Most Stars Projects</h4>
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
+
+</div>
+
+🔖🔖
