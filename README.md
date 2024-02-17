@@ -267,6 +267,9 @@
 </p>
 <!-- Footer -->
 
+
+<!-- Projects and Repository -->
+
 <div align='center'>
 
 <h4 align="center"> 🏆 Best Projects </h4>
@@ -292,10 +295,10 @@
 
 <h4 align="center"> ✨ Most Stars Projects</h4>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=GitHub-Tutorial\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=GitHub-Tutorial\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai) ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
 
 </div>
 
+<!-- Projects and Repository -->
 
 <!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=monokai)](https://your-desired-link.com) -->
