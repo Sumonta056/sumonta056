@@ -304,4 +304,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=monokai)](https://your-desired-link.com) -->
