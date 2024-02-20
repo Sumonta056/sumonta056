@@ -302,6 +302,16 @@
 <!-- Projects and Repository -->
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 24 December 2021 - To: 19 February 2024
+
+Total Time: 705 hrs 32 mins
+
+JavaScript        173 hrs 6 mins  >>>>>--------------------   20.21 %
+Other             150 hrs 52 mins >>>>---------------------   17.62 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-->
