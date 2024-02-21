@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: "30 18 * * *"
+    - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -14,10 +14,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          COMMIT_MESSAGE: "Updated Readme with New Wakatime Metrics"
-          COMMIT_USERNAME: "mridul38"
-          COMMIT_EMAIL: "mridul38@gmail.com"
-          
-
