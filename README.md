@@ -267,35 +267,37 @@
 </p>
 <!-- Footer -->
 
-
 <!-- Projects and Repository -->
 
 <div align='center'>
 
 <h4 align="center"> 🏆 Best Projects </h4>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Rent_IT-App\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SUST_Autorickshaw_Management_System\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Rent_IT-App&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Rent_IT-App) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SUST_Autorickshaw_Management_System&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/SUST_Autorickshaw_Management_System)
 
 <h4 align="center"> 🔖 1 Day Hackathon Projects </h4>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=AtomSense-DU_ITVerse_Hackathon\&title_color=DD8484\&icon_color=DD0D4F\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Kiddo-LU-Hackathon\&title_color=DD8484\&icon_color=DD0D4F\&text_color=A6A6A6\&theme=monokai)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=AtomSense-DU_ITVerse_Hackathon&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/AtomSense-DU_ITVerse_Hackathon) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Kiddo-LU-Hackathon&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Kiddo-LU-Hackathon)
+
+<!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Code-Samurai-2024-Hackathon\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=dark)](https://github.com/Sumonta056/Code-Samurai-2024-Hackathon) -->
 
 <h4 align="center"> 📸 Personal Projects Projects</h4>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Mri-Shot\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=ReactJS-Simplify-Template\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
-
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Mri-Shot&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Mri-Shot) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=ReactJS-Simplify-Template&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/ReactJS-Simplify-Template)
 
 <h4 align="center"> 🤖 AI & GPT Based Project</h4>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=GPT-Vai\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=DALL-E-Vision\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GPT-Vai&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/GPT-Vai) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=DALL-E-Vision&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/DALL-E-Vision)
 
 <h4 align="center"> 🎮 Game Projects </h4>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Survive-IT\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)  ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=Survival-of-Warrior\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Survive-IT&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Survive-IT) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Survival-of-Warrior&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Survival-of-Warrior)
+
+
 
 <h4 align="center"> ✨ Most Stars Projects</h4>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=GitHub-Tutorial\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai) ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056\&repo=SWE-3-2-Semester-Resources\&title_color=DD8484\&icon_color=E25822\&text_color=A6A6A6\&theme=monokai)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/GitHub-Tutorial)  [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
 
 </div>
 
