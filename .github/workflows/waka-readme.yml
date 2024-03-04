@@ -34,6 +34,4 @@ jobs:
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: sumonta_saha # optional
-          AUTHOR_EMAIL: sumontasaha80@gmail.com
           # you can populate email-id with secretes instead
