@@ -98,7 +98,7 @@
  <!--Hacktober Fest-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h2>
+<h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h2>
 
 <div align="center"><b>🌱 Passed All Four Level of Hacktoberfest 2023 🌱</b> </div><br>
 
@@ -109,7 +109,7 @@
  <!--Google Foobar -->
 <hr>
 
-<h2 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
+<h3 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
 
 <div align="center"><b>🌱 Successfully Passed Level Two and Continuing... 🌱</b> </div><br>
 
@@ -207,6 +207,8 @@
 
 <!-- Skill Section -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Contribution Stack -->
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
@@ -219,19 +221,16 @@
 <!-- Contribution Statistics and Visuals -->
 
 <!-- Activity Graph -->
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=tokyo-day)
-
 <!-- Activity Graph -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <!-- Contribution Stack -->
 
 <!-- Photography Section -->
 <div align="center">
-<h2> 📸 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h2>
-<img src="images/Photography/3.gif" width="90%" >
+<h3> 📱 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h2>
+<img src="images/Photography/3.gif" width="80%" >
 </div>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
@@ -240,7 +239,6 @@
 </p>
 <!-- Instagram + Twitter FollowLinks -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <!-- Photography Section -->
 
 <!-- Blog Section -->
@@ -265,7 +263,7 @@
 
 <!-- Footer -->
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px"  > 
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  > 
 </p>
 <!-- Footer -->
 
