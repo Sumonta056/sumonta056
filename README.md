@@ -255,8 +255,13 @@
 <!-- Blog Section -->
 <div align="center">
 <h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h2>
+
+![https://medium.com/@sumontasaha80](https://github.com/user-attachments/assets/c640d053-b4a0-4959-8f31-6725eddc9071)
+
+
 <a href="https://medium.com/@sumontasaha80" target="_blank">
-    <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/4ab58319-8f9a-4a81-b7bb-2b18e9969519" width="90%" alt="Blogs Loading"/></a>
+<img src="https://github.com/user-attachments/assets/c640d053-b4a0-4959-8f31-6725eddc907" width="90%" alt="Blogs Loading"/>
+</a>
 </div>
 <hr>
 <!-- Blog Section -->
