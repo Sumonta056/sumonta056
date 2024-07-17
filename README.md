@@ -256,12 +256,18 @@
 <div align="center">
 <h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h2>
 
-![https://medium.com/@sumontasaha80](https://github.com/user-attachments/assets/c640d053-b4a0-4959-8f31-6725eddc9071)
-
-
 <a href="https://medium.com/@sumontasaha80" target="_blank">
-<img src="https://github.com/user-attachments/assets/c640d053-b4a0-4959-8f31-6725eddc907" width="90%" alt="Blogs Loading"/>
+<img src="https://private-user-images.githubusercontent.com/61287791/349385189-c640d053-b4a0-4959-8f31-6725eddc9071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExOTgxNjEsIm5iZiI6MTcyMTE5Nzg2MSwicGF0aCI6Ii82MTI4Nzc5MS8zNDkzODUxODktYzY0MGQwNTMtYjRhMC00OTU5LThmMzEtNjcyNWVkZGM5MDcxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE3VDA2MzEwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3ZjdiNjVkODAzZjE3Yzg2ZGEzMWM2ZmIzY2JlZTkyNTgxZDM4MTUwNDk5YWMzMjVkMjZjODhiM2E2OTdiMjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.grpxTT6P2dQ3_klGFZ-dRDxF2L1kND-Tny5iiFTtTVI" width="40%" alt="Blogs Loading"/>
 </a>
+
+| **No** |                         **Blog Name**                          | **Views** |                                                              **Link**                                                              |
+| :----: | :------------------------------------------------------------: | :-------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+|   1    | SOLID Principles: The Key to Writing Clean & High-Quality Code |  👁️ 518+  | **( [👉 Medium Link](https://medium.com/nerd-for-tech/solid-principles-the-key-to-writing-clean-high-quality-code-9a8f88ea0a8) )** |
+|   2    |        Basic Things About HTTP Cookies and How It Works        | 👁️ 1800+  |              **( [👉 Medium Link](https://sumontasaha80.medium.com/basic-things-about-http-cookies-1c1290f31f7b) )**               |
+|   3    |                   The Factory Design Pattern                   | 👁️ 1400+  |                                    **( [👉 Medium Link](https://medium.com/p/ba150444c8a7) )**                                     |
+|   4    |     First Hackathon Experience and Some Tips for Beginners     |  👁️ 200   |                              **( [👉 Medium Link](https://medium.com/p/945063ae8e66) )**                               |
+|   5    |                     Enhance Your Coding Journey: 17 Must-Try VS Code Extensions for Enhanced Productivity and Time Savings                   |  👁️ 300+   |                                   **( [👉 👉 Dev.to Link](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1) )**                                   |                    |
+
 </div>
 <hr>
 <!-- Blog Section -->
@@ -298,10 +304,8 @@
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Survive-IT&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Survive-IT) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Survival-of-Warrior&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Survival-of-Warrior)
 
-
 <h4 align="center"> ✨ Most Stars Projects</h4>
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/GitHub-Tutorial)  [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/GitHub-Tutorial) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
 
 </div>
-
