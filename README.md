@@ -52,6 +52,48 @@
 
   <!-- Github Profile Summary Cards -->
 
+<!-- Contact Section -->
+
+<div align="center">
+
+### 📞 Connect with me
+
+<p align="center">
+  <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://fb.com/sumonta.mridul" >
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/_sumonta_saha_" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@sumontasaha80" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumontasaha80" height="30" width="42" /></a>
+  <a href="https://twitter.com/sumonta_saha" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/13511410/sumonta-saha-mridul" >
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  />
+  </a>
+  <a href="https://codeforces.com/profile/mR.sCraPPy" >
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  />
+  </a>
+  <a href="https://leetcode.com/Sumonta056/" >
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  />
+  </a>
+  </p>
+</div>
+<!-- Contact Section -->
+
  <!-- Achievement Corner -->
  <!--Hacktober Fest-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -164,57 +206,6 @@
 - ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp; ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp; ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 <!-- Skill Section -->
-<div align="center">
-
-## <i>📞 Connect with me
-
-<p align="center">
-  <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://fb.com/sumonta.mridul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/_sumonta_saha_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@sumontasaha80" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumontasaha80" height="30" width="42" /></a>
-  <a href="https://twitter.com/sumonta_saha" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/13511410/sumonta-saha-mridul" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/mR.sCraPPy" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  />
-  </a>
-  <a href="https://leetcode.com/Sumonta056/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  />
-  </a>
-  </p>
-</div>
-<!-- Skill Section -->
-
-<!-- Passionate About -->
-<div align="center">
-
-## <i>🙋‍♂️ Passionate About </i>
-
-<p align = 'center'>
-    <b>💻Coding - ✈️Travelling - 📸Photography </b>
-</p>
-</div>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Passionate About -->
 
 <!-- Contribution Stack -->
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
@@ -256,17 +247,17 @@
 <div align="center">
 <h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h2>
 
-<a href="https://medium.com/@sumontasaha80" target="_blank">
+<a href="https://medium.com/@sumontasaha80" >
 <img src="https://private-user-images.githubusercontent.com/61287791/349385189-c640d053-b4a0-4959-8f31-6725eddc9071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExOTgxNjEsIm5iZiI6MTcyMTE5Nzg2MSwicGF0aCI6Ii82MTI4Nzc5MS8zNDkzODUxODktYzY0MGQwNTMtYjRhMC00OTU5LThmMzEtNjcyNWVkZGM5MDcxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE3VDA2MzEwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3ZjdiNjVkODAzZjE3Yzg2ZGEzMWM2ZmIzY2JlZTkyNTgxZDM4MTUwNDk5YWMzMjVkMjZjODhiM2E2OTdiMjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.grpxTT6P2dQ3_klGFZ-dRDxF2L1kND-Tny5iiFTtTVI" width="40%" alt="Blogs Loading"/>
 </a>
 
-|                          **Blog Name**                           | **Views** |                                                                         **Link**                                                                          |
-| :--------------------------------------------------------------: | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
+| :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  SOLID Principles: The Key to Writing Clean & High-Quality Code  |  👁️ 518+  |               **[👉 Medium](https://medium.com/nerd-for-tech/solid-principles-the-key-to-writing-clean-high-quality-code-9a8f88ea0a8)**               |
 |         Basic Things About HTTP Cookies and How It Works         | 👁️ 1800+  |                            **[👉 Medium](https://sumontasaha80.medium.com/basic-things-about-http-cookies-1c1290f31f7b)**                             |
 |                    The Factory Design Pattern                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/p/ba150444c8a7)**                                                   |
 |      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
-| 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)**   |
+| 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
 </div>
 <hr>
