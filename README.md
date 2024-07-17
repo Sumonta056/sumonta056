@@ -281,18 +281,17 @@
 
 <div align='center'>
 
-<h4 align="center"> 🏆 Best Projects </h4>
+<!-- <h4 align="center"> 🏆 Best Projects </h4>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Rent_IT-App&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/Rent_IT-App)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SUST_Autorickshaw_Management_System&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SUST_Autorickshaw_Management_System)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=EcoSync-Waste-Management-Website&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/EcoSync-Waste-Management-Website)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=EcoSync-Waste-Management-Website&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/EcoSync-Waste-Management-Website) -->
 
 <h4 align="center"> ✨ Most Stars Projects</h4>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Tutorial)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
 
-</div>
 
 <h4 align="center"> ✨ Open Source Projects</h4>
 
