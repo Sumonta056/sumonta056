@@ -56,7 +56,7 @@
 
 <div align="center">
 
-### 📞 Connect with me
+## 📞 Connect with me
 
 <p align="center">
   <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github" >
@@ -258,7 +258,7 @@
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
 </div>
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Blog Section -->
 
 <!-- Footer -->
@@ -273,7 +273,10 @@
 
 <h4 align="center"> 🏆 Best Projects </h4>
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Rent_IT-App&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Rent_IT-App) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SUST_Autorickshaw_Management_System&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/SUST_Autorickshaw_Management_System)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Rent_IT-App&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=onedark)](https://github.com/Sumonta056/Rent_IT-App) 
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SUST_Autorickshaw_Management_System&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=onedark)](https://github.com/Sumonta056/SUST_Autorickshaw_Management_System)
+ [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=EcoSync-Waste-Management-Website&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=onedark)](https://github.com/Sumonta056/EcoSync-Waste-Management-Website)
+
 
 <h4 align="center"> 🔖 1 Day Hackathon Projects </h4>
 
