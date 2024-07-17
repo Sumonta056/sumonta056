@@ -2,8 +2,8 @@
 
 <img align='center' src= "images/header.png">
 <div align="center">
-<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
-<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
+<a href = "https://drive.google.com/file/d/1-wIG-w8ez_B8K90liVrGQIVjY2Pw5V1E/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
+<a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
 <a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
 </div>
 
@@ -294,36 +294,9 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Survive-IT&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Survive-IT) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Survival-of-Warrior&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/Survival-of-Warrior)
 
 
-
 <h4 align="center"> ✨ Most Stars Projects</h4>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/GitHub-Tutorial)  [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=dark)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
 
 </div>
 
-<!-- Projects and Repository -->
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 24 December 2021 - To: 03 June 2024
-
-Total Time: 820 hrs 11 mins
-
-Other             532 hrs 3 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.35 %
-JavaScript        244 hrs 9 mins  ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.06 %
-C++               111 hrs 1 min   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.21 %
-Markdown          110 hrs 46 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.19 %
-Java              101 hrs 56 mins ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.54 %
-CSS               84 hrs 20 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.24 %
-HTML              59 hrs 18 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.39 %
-XML               42 hrs 44 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.16 %
-Python            14 hrs 22 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.06 %
-JSON              11 hrs 10 mins  ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.83 %
-EJS               9 hrs 5 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.67 %
-PHP               7 hrs 56 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.59 %
-```
-
-<!--END_SECTION:waka-->
-
-<!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=monokai)](https://your-desired-link.com) -->
