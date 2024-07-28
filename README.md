@@ -32,7 +32,7 @@
 
  <!-- Github Readme Stats -->
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="40%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
 <!-- ![Sumonta stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&rank_icon=percentile\&show=prs_merged,prs_merged_percentage\&theme=moltack) -->
 </p>
  <!-- Github Readme Stats -->
@@ -40,14 +40,14 @@
  <!-- Waka Time in Depth Stats -->
 <p align="center">
 <a herf = "https://wakatime.com/@sumonta056">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="50%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
 </p>
   <!-- Waka Time in Depth Stats -->
 
   <!-- Github Profile Summary Cards -->
 <p align="center">
-<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
- <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
   <!-- Github Profile Summary Cards -->
