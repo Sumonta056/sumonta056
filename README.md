@@ -32,7 +32,7 @@
 
  <!-- Github Readme Stats -->
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="40%" alt="stats graph"  />
 <!-- ![Sumonta stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&rank_icon=percentile\&show=prs_merged,prs_merged_percentage\&theme=moltack) -->
 </p>
  <!-- Github Readme Stats -->
@@ -40,14 +40,14 @@
  <!-- Waka Time in Depth Stats -->
 <p align="center">
 <a herf = "https://wakatime.com/@sumonta056">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="50%" /></a>
 </p>
   <!-- Waka Time in Depth Stats -->
 
   <!-- Github Profile Summary Cards -->
 <p align="center">
-<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
- <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
+ <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
   <!-- Github Profile Summary Cards -->
@@ -256,7 +256,8 @@
 <h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h2>
 
 <a href="https://medium.com/@sumontasaha80" >
-<img src="https://private-user-images.githubusercontent.com/61287791/349385189-c640d053-b4a0-4959-8f31-6725eddc9071.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExOTgxNjEsIm5iZiI6MTcyMTE5Nzg2MSwicGF0aCI6Ii82MTI4Nzc5MS8zNDkzODUxODktYzY0MGQwNTMtYjRhMC00OTU5LThmMzEtNjcyNWVkZGM5MDcxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE3VDA2MzEwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3ZjdiNjVkODAzZjE3Yzg2ZGEzMWM2ZmIzY2JlZTkyNTgxZDM4MTUwNDk5YWMzMjVkMjZjODhiM2E2OTdiMjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.grpxTT6P2dQ3_klGFZ-dRDxF2L1kND-Tny5iiFTtTVI" width="40%" alt="Blogs Loading"/>
+
+<img src="./images/blogProfile.png" width="40%" alt="Blogs Loading"/>
 </a>
 
 |                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
