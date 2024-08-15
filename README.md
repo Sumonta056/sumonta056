@@ -249,6 +249,12 @@
 |      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
+### 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Blog Section -->
