@@ -170,11 +170,11 @@
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
