@@ -249,13 +249,13 @@
 |      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
-### 📚 Latest Blog Posts
+## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Blog Section -->
 
@@ -280,7 +280,6 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Tutorial)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
 
-
 <h4 align="center"> 🏆 Open Source Repositories</h4>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Follower-Notification-Action-Bot&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Follower-Notification-Action-Bot)
@@ -291,3 +290,8 @@
 </div>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
