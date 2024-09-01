@@ -245,7 +245,6 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Top 5 Must-Try GitHub Extensions to Boost Your Workflow](https://dev.to/sumonta056/top-5-must-try-github-extensions-to-boost-your-workflow-1c56)
 - [🔔Daily Automated Email Updates: Track Your GitHub Followers Effortlessly!](https://dev.to/sumonta056/daily-automated-email-updates-track-your-github-followers-effortlessly-2b04)
 - [Rebooting Motivation: Journey of a Software Engineering Student to Overcoming Defocus](https://levelup.gitconnected.com/rebooting-motivation-journey-of-a-software-engineering-student-to-overcoming-defocus-b1dd1e6b8169?source=rss-afb68213da67------2)
