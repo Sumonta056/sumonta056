@@ -144,57 +144,57 @@
 
 <!-- Banners 4th Phase : SpiderMan -->
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="35%">
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
 #### 🦖 Competitive Programming
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
 #### 📚 Frontend Development & Frameworks
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
-
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
 
 #### ⛏️ Backend Development & Database Services
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
 
 #### 😡 App Development
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
 
 #### 🚦 Version Control & Documentation Tools
 
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
 
 <!-- Skill Section -->
 
@@ -254,6 +254,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Top 5 Must-Try GitHub Extensions to Boost Your Workflow](https://dev.to/sumonta056/top-5-must-try-github-extensions-to-boost-your-workflow-1c56)
 - [🔔Daily Automated Email Updates: Track Your GitHub Followers Effortlessly!](https://dev.to/sumonta056/daily-automated-email-updates-track-your-github-followers-effortlessly-2b04)
 - [Rebooting Motivation: Journey of a Software Engineering Student to Overcoming Defocus](https://levelup.gitconnected.com/rebooting-motivation-journey-of-a-software-engineering-student-to-overcoming-defocus-b1dd1e6b8169?source=rss-afb68213da67------2)
