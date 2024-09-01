@@ -148,51 +148,56 @@
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
 
-##### 🦖 Competitive Programming
+#### 🦖 Competitive Programming
 
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg)
 
-##### 😡 Android App Development
+#### 📚 Frontend Development & Frameworks
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 
-##### 📚 Frontend Development & Frameworks
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
 
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### ⛏️ Backend Development & Database Services
 
-##### ⛏️ Backend Development
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
 
-- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
 
-##### 🌸 CSS Design & Frameworks
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
 
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![Saass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=whitee)&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+#### 😡 App Development
 
-<!-- Banners 4th Phase : SpiderMan -->
-<p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="35%">
-</p>
-<!-- Banners 4th Phase : SpiderMan -->
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
 
-##### 🎉 Machine Learning
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
 
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+#### 🚦 Version Control & Documentation Tools
 
-##### 🚦 Version Control & Documentation Tools
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
 
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-##### 🔖 Database & Cloud Services
-
-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-##### 🍧 Designing Tools & UI/UX Design
-
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp; ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
-##### ⚙️ DevOps & Tools
-
-- ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp; ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp; ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
 
 <!-- Skill Section -->
 
@@ -252,6 +257,7 @@
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Top 5 Must-Try GitHub Extensions to Boost Your Workflow](https://dev.to/sumonta056/top-5-must-try-github-extensions-to-boost-your-workflow-1c56)
 - [🔔Daily Automated Email Updates: Track Your GitHub Followers Effortlessly!](https://dev.to/sumonta056/daily-automated-email-updates-track-your-github-followers-effortlessly-2b04)
 - [Rebooting Motivation: Journey of a Software Engineering Student to Overcoming Defocus](https://levelup.gitconnected.com/rebooting-motivation-journey-of-a-software-engineering-student-to-overcoming-defocus-b1dd1e6b8169?source=rss-afb68213da67------2)
