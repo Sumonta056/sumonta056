@@ -238,13 +238,11 @@
 
 <!-- Blog Section -->
 <div align="center">
-<h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h2>
+<h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium & 📚 Latest Blog Posts</a></h2>
 
 <a href="https://medium.com/@sumontasaha80" >
 <img src="./images/blogProfile.png" width="40%" alt="Blogs Loading"/>
 </a>
-
-## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
