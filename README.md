@@ -245,11 +245,11 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Readme Template: For Personal Projects](https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka)
 - [I Got Invited to Google Foobar &lpar;Google’s Secret Hiring Program&rpar;](https://levelup.gitconnected.com/i-got-invited-to-google-foobar-googles-secret-hiring-program-bc1f9fec1709?source=rss-afb68213da67------2)
 - [Top 5 Must-Try GitHub Extensions to Boost Your Workflow](https://dev.to/sumonta056/top-5-must-try-github-extensions-to-boost-your-workflow-1c56)
 - [🔔Daily Automated Email Updates: Track Your GitHub Followers Effortlessly!](https://dev.to/sumonta056/daily-automated-email-updates-track-your-github-followers-effortlessly-2b04)
 - [Rebooting Motivation: Journey of a Software Engineering Student to Overcoming Defocus](https://levelup.gitconnected.com/rebooting-motivation-journey-of-a-software-engineering-student-to-overcoming-defocus-b1dd1e6b8169?source=rss-afb68213da67------2)
-- [Enhance Your Coding Journey: 17 Must-Try VS Code Extensions for Enhanced Productivity and Time Savings](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)
 <!-- BLOG-POST-LIST:END -->
 
 |                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
