@@ -245,11 +245,11 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Contribute to Open Source: A Step-by-Step Guide for Beginners](https://dev.to/sumonta056/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-2a80)
 - [Simple Tips for How to Sleep Better?](https://levelup.gitconnected.com/simple-tips-for-how-to-sleep-better-0e7d8df925d1?source=rss-afb68213da67------2)
 - [GitHub Readme Template: For Personal Projects](https://levelup.gitconnected.com/github-readme-template-for-personal-projects-a3592a257cf6?source=rss-afb68213da67------2)
 - [GitHub Readme Template: For Personal Projects](https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka)
 - [I Got Invited to Google Foobar &lpar;Google’s Secret Hiring Program&rpar;](https://levelup.gitconnected.com/i-got-invited-to-google-foobar-googles-secret-hiring-program-bc1f9fec1709?source=rss-afb68213da67------2)
-- [Top 5 Must-Try GitHub Extensions to Boost Your Workflow](https://dev.to/sumonta056/top-5-must-try-github-extensions-to-boost-your-workflow-1c56)
 <!-- BLOG-POST-LIST:END -->
 
 |                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
