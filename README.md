@@ -2,7 +2,7 @@
 
 <img align='center' src= "images/header.png">
 <div align="center">
-<a href = "https://drive.google.com/file/d/1-wIG-w8ez_B8K90liVrGQIVjY2Pw5V1E/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
+<a href = "https://drive.google.com/file/d/1MAtJjLgIn7ZznP7HfwimfYJyDlqCHmLv/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
 <a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
 <a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
 </div>
@@ -13,8 +13,11 @@
 
 <h1 align="center">Hi👋, I am Sumonta Saha Mridul </h1>
 
-<p align="center" width="150px"> 
- I am currently studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b> <br>Besides, I am a <b>Software Developer💻</b> with a passion for coding and problem solving.<br> I also love <b>photography📸</b> as a creative outlet and capturing the world around me
+<p align="center" width="150px">
+  I am currently a <b>Trainee Software Engineer</b> at
+  <a herf="https://www.linkedin.com/company/cefalo-as/posts/?feedView=all"><b>Cefalo</b></a>. <br />
+  Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
+  I also love <b>photography📸</b> as a creative outlet and capturing the world around me
 </p>
 
  <!-- Heading and BIO -->
@@ -133,7 +136,7 @@
 - 🌱 I’m currently exploring and learning in depth backend 😁<br>
 - ✨ Also focusing on problem-solving and full stack development <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2024 Goals</b></i>: Get a good Intership / Job..❤️ <br>
+- 🥅 <i><b>2025 Goals</b></i>: Get a good Job..❤️ <br>
 - ⚡ Interests : Machine Learning and Artificial Intelligence! 😏<br>
 </p>
  <!-- About Me -->
@@ -238,11 +241,15 @@
 
 <!-- Blog Section -->
 <div align="center">
-<h2>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium </a>& 📚 Latest Blog Posts</h2>
+<h2>✍🏻 Read My Blogs on [ 
+<a href = "https://medium.com/@sumontasaha80" >Medium </a>, 
+<a href = "https://dev.to/sumonta056" >Dev.to </a>, 
+<a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" >Linkedin</a>]</h2>
 
 <a href="https://medium.com/@sumontasaha80" >
-<img src="./images/blogProfile.png" width="40%" alt="Blogs Loading"/>
+<img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79" width="40%" alt="Blogs Loading"/>
 </a>
+
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Contribute to Open Source: A Step-by-Step Guide for Beginners](https://dev.to/sumonta056/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-2a80)
