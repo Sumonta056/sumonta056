@@ -211,7 +211,8 @@
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumonta056&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumonta056&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+ 
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <!-- Contribution Statistics and Visuals -->
