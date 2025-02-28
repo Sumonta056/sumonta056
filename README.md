@@ -110,6 +110,7 @@
  <!--Google Foobar -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
+ 
 
  <!-- Banners 2nd Phase -->
 <p align='center'>
@@ -117,6 +118,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
 </p>
  <!-- Banners 2nd Phase -->
+ 
 
  <!-- Typewriting Introduction -->
 
@@ -247,9 +249,34 @@
 <a href = "https://dev.to/sumonta056" >Dev.to </a>, 
 <a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" >Linkedin</a>]</h2>
 
-<a href="https://medium.com/@sumontasaha80" >
-<img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79" width="40%" alt="Blogs Loading"/>
-</a>
+<table border="0">
+ <tr valign="top">
+  <td width="58%">
+
+ <div align='center'>
+   <a href="https://medium.com/@sumontasaha80">
+    <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79" width="100%" alt="Blogs Loading"/>
+  </a>
+ </div>
+
+  </td>
+  <td width="30%">
+
+<a href="https://app.daily.dev/sumontasahamridul"><img src="https://api.daily.dev/devcards/v2/oy53egVldSfhhKhkvD69g.png?type=default&r=8q5" width="356" alt="Sumonta Saha (Mridul)'s Dev Card"/></a>
+
+  </td>
+ </tr>
+</table>
+
+
+
+|                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
+| :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  SOLID Principles: The Key to Writing Clean & High-Quality Code  |  👁️ 518+  |               **[👉 Medium](https://medium.com/nerd-for-tech/solid-principles-the-key-to-writing-clean-high-quality-code-9a8f88ea0a8)**               |
+|         Basic Things About HTTP Cookies and How It Works         | 👁️ 1800+  |                            **[👉 Medium](https://sumontasaha80.medium.com/basic-things-about-http-cookies-1c1290f31f7b)**                             |
+|                    The Factory Design Pattern                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/p/ba150444c8a7)**                                                   |
+|      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
+| 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
 
 <!-- BLOG-POST-LIST:START -->
@@ -259,14 +286,6 @@
 - [How to Contribute to Open Source: A Step-by-Step Guide for Beginners](https://dev.to/sumonta056/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-2a80)
 - [Simple Tips for How to Sleep Better?](https://levelup.gitconnected.com/simple-tips-for-how-to-sleep-better-0e7d8df925d1?source=rss-afb68213da67------2)
 <!-- BLOG-POST-LIST:END -->
-
-|                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
-| :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  SOLID Principles: The Key to Writing Clean & High-Quality Code  |  👁️ 518+  |               **[👉 Medium](https://medium.com/nerd-for-tech/solid-principles-the-key-to-writing-clean-high-quality-code-9a8f88ea0a8)**               |
-|         Basic Things About HTTP Cookies and How It Works         | 👁️ 1800+  |                            **[👉 Medium](https://sumontasaha80.medium.com/basic-things-about-http-cookies-1c1290f31f7b)**                             |
-|                    The Factory Design Pattern                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/p/ba150444c8a7)**                                                   |
-|      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
-| 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
 </div>
 
