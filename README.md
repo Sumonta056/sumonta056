@@ -1,6 +1,14 @@
  <!-- Banner & Links -->
 
 <img align='center' src= "images/header.png">
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="50" alt="YouTube Icon"/>
+    <a href="https://www.youtube.com/@LearnCodewithPS5638">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=470&lines=(YouTube)+Learn+%26+Code+with+Promi+%26+Sumonta" alt="Typing SVG" /
+    </a>
+</div>
+
 <div align="center">
 <a href = "https://drive.google.com/file/d/1MAtJjLgIn7ZznP7HfwimfYJyDlqCHmLv/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
 <a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
