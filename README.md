@@ -288,11 +288,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built This GitHub README to Showcase My Skills &amp; Get an Internship at a Software Company!](https://levelup.gitconnected.com/i-built-this-github-readme-to-showcase-my-skills-get-an-internship-at-a-software-company-6e73391f219f?source=rss-afb68213da67------2)
+- [I Built This GitHub README to Showcase My Skills &amp; Get an Internship at a Software Company!](https://medium.com/design-bootcamp/i-built-this-github-readme-to-showcase-my-skills-get-an-internship-at-a-software-company-20364156b74e?source=rss-afb68213da67------2)
 - [I Built This GitHub README to Showcase My Skills &amp; Get an Internship at a Software Company!](https://dev.to/sumonta056/i-built-this-github-readme-to-showcase-my-skills-get-an-internship-at-a-software-company-36oa)
 - [How to Contribute to Open Source: A Step-by-Step Guide for Beginners](https://dev.to/sumonta056/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-2a80)
-- [GitHub Readme Template: For Personal Projects](https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka)
-- [Top 5 Must-Try GitHub Extensions to Boost Your Workflow](https://dev.to/sumonta056/top-5-must-try-github-extensions-to-boost-your-workflow-1c56)
-- [🔔Daily Automated Email Updates: Track Your GitHub Followers Effortlessly!](https://dev.to/sumonta056/daily-automated-email-updates-track-your-github-followers-effortlessly-2b04)
+- [Simple Tips for How to Sleep Better?](https://levelup.gitconnected.com/simple-tips-for-how-to-sleep-better-0e7d8df925d1?source=rss-afb68213da67------2)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
