@@ -324,7 +324,7 @@
 <h4 align="center"> 🏆 Open Source Repositories</h4>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Follower-Notification-Action-Bot&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Follower-Notification-Action-Bot)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=CodeCraft-Extension&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/CodeCraft-Extension)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=sumonta056.github.io&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/sumonta056.github.io)
 
 <!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Intership-Preparation-2024&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/Intership-Preparation-2024) -->
 
