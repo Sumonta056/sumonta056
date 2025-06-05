@@ -150,12 +150,12 @@
 
  <!-- About Me -->
 <p align='left'>
-- 🔭 <b>Software Engineering Undergrad</b> in <b>SUST</b><br>
-- 🌱 I’m currently exploring and learning in depth backend 😁<br>
-- ✨ Also focusing on problem-solving and full stack development <br>
+- 🔭 <b>Software Engineering</b> graduated from <b>SUST</b><br>
+- 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
+- ✨ Maintaining a Newsletter & Youtube Channel : Learn & Code <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Get a good Job..❤️ <br>
-- ⚡ Interests : Machine Learning and Artificial Intelligence! 😏<br>
+- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
+- ⚡ Interests : How chatgpt going to take my job !😏<br>
 </p>
  <!-- About Me -->
 
@@ -199,6 +199,9 @@
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NestJS/nestjs1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg)
 
 #### 😡 App Development
 
@@ -326,10 +329,16 @@
 
 <h4 align="center"> ✨ Most Stars Repositories</h4>
 
+![](https://m3-markdown-badges.vercel.app/stars/1/1/sumonta056/GitHub-Tutorial)
+![](https://m3-markdown-badges.vercel.app/stars/3/2/sumonta056/SWE-3-2-Semester-Resources)
+
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Tutorial)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
 
 <h4 align="center"> 🏆 Open Source Repositories</h4>
+
+![](https://m3-markdown-badges.vercel.app/stars/5/3/sumonta056/GitHub-Follower-Notification-Action-Bot)
+![](https://m3-markdown-badges.vercel.app/stars/8/2/sumonta056/sumonta056.github.io)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Follower-Notification-Action-Bot&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Follower-Notification-Action-Bot)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=sumonta056.github.io&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/sumonta056.github.io)
