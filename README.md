@@ -7,7 +7,11 @@
     </a>
 </div>
 
-<img align='center' src= "images/header.png">
+<div align="center">
+<img align='center' src= "https://media.licdn.com/dms/image/v2/D5612AQEqDjzD3pbC1g/article-cover_image-shrink_720_1280/B56ZbNAdkTH4AM-/0/1747196175322?e=1754524800&v=beta&t=WKTbKpkAWLtnqjJBbpQjG9nt2KEqV1vsuVqocp1bd_0" width="80%">
+</div>
+
+</br>
 
 <div align="center">
 <a href = "https://drive.google.com/file/d/1MAtJjLgIn7ZznP7HfwimfYJyDlqCHmLv/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
