@@ -22,10 +22,10 @@
 <h1 align="center">Hi👋, I am Sumonta Saha Mridul </h1>
 
 <p align="center" width="150px">
-  I am currently a <b>Trainee Software Engineer</b> at
-  <a herf="https://www.linkedin.com/company/cefalo-as/posts/?feedView=all"><b>Cefalo</b></a>. <br />
+  I am currently an <b>Associate Software Engineer I </b> at <a herf="https://www.linkedin.com/company/cefalo-as/posts/?feedView=all"><b>Cefalo</b></a>. <br />
+  I am a content writer, <a herf="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512/"><b>Learn & Code Newsletter</b></a>  (400+ Subscriber)  <br />
   Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
-  I also love <b>photography📸</b> as a creative outlet and capturing the world around me
+  I also love <b>photography📸</b> as a creative outlet and capturing the world around me <br />
 </p>
 
  <!-- Heading and BIO -->
