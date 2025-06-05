@@ -8,7 +8,9 @@
 </div>
 
 <div align="center">
+<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512">
 <img align='center' src= "https://media.licdn.com/dms/image/v2/D5612AQEqDjzD3pbC1g/article-cover_image-shrink_720_1280/B56ZbNAdkTH4AM-/0/1747196175322?e=1754524800&v=beta&t=WKTbKpkAWLtnqjJBbpQjG9nt2KEqV1vsuVqocp1bd_0" width="80%">
+</a>  
 </div>
 
 </br>
@@ -25,11 +27,14 @@
 
 <h1 align="center">Hi👋, I am Sumonta Saha Mridul </h1>
 
-<p align="center" width="150px">
-  I am currently an <b>Associate Software Engineer I </b> at <a herf="https://www.linkedin.com/company/cefalo-as/posts/?feedView=all"><b>Cefalo</b></a>. <br />
-  I am a content writer, <a herf="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512/"><b>Learn & Code Newsletter</b></a>  (400+ Subscriber)  <br />
+<div align="center" width="150px">
+ 
+  I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
+  I am a content writer, **[Learn & Code Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (400+ Subscribers)  <br />
   Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
-</p>
+ 
+  
+</div>
 
  <!-- Heading and BIO -->
 
