@@ -330,4 +330,11 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
 <a href="https://www.buymeacoffee.com/sumontasahi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 </div>
 
+<div align="center">
+ 
+Donate if you wish to support 💗: 
+**[[Bkash - Rocket](https://forms.gle/osWQmMzD166o2LdS7)] [[Buy Me a Book](https://www.buymeacoffee.com/sumontasahi)]**
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
