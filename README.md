@@ -1,16 +1,11 @@
  <!-- Banner & Links -->
-
- <div align="center">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
-    <a href="https://www.youtube.com/@LearnCodewithPS5638">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=490&lines=(Subscribe)+Learn+%26+Code+with+Promi+%26+Sumonta" alt="Typing SVG" /
-    </a>
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
+<a href="https://www.youtube.com/@LearnCodewithPS5638"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=490&lines=(Subscribe)+Learn+%26+Code+with+Promi+%26+Sumonta" alt="Typing SVG" /</a>
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512">
-<img align='center' src= "https://media.licdn.com/dms/image/v2/D5612AQEqDjzD3pbC1g/article-cover_image-shrink_720_1280/B56ZbNAdkTH4AM-/0/1747196175322?e=1754524800&v=beta&t=WKTbKpkAWLtnqjJBbpQjG9nt2KEqV1vsuVqocp1bd_0" width="80%">
-</a>  
+<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://media.licdn.com/dms/image/v2/D5612AQEqDjzD3pbC1g/article-cover_image-shrink_720_1280/B56ZbNAdkTH4AM-/0/1747196175322?e=1754524800&v=beta&t=WKTbKpkAWLtnqjJBbpQjG9nt2KEqV1vsuVqocp1bd_0" width="80%"></a> 
 </div>
 
 </br>
@@ -18,22 +13,20 @@
 <div align="center">
 <a href = "https://drive.google.com/file/d/1MAtJjLgIn7ZznP7HfwimfYJyDlqCHmLv/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
 <a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
-<a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
+<a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220" height="35"></a>
 </div>
 
  <!-- Banner & Links -->
 
  <!-- Heading and BIO -->
-
-<h1 align="center">Hi👋, I am Sumonta Saha Mridul </h1>
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Sumonta Saha Mridul </h1>
 
 <div align="center" width="150px">
- 
-  I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
-  I am a content writer, **[Learn & Code Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (400+ Subscribers)  <br />
-  Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
- 
-  
+
+I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
+I am a content writer, **[Learn & Code Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (400+ Subscribers)  <br />
+Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
+
 </div>
 
  <!-- Heading and BIO -->
@@ -52,7 +45,6 @@
  <!-- Github Readme Stats -->
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
-<!-- ![Sumonta stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&rank_icon=percentile\&show=prs_merged,prs_merged_percentage\&theme=moltack) -->
 </p>
  <!-- Github Readme Stats -->
 
@@ -66,7 +58,7 @@
   <!-- Github Profile Summary Cards -->
 <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
- <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
   <!-- Github Profile Summary Cards -->
@@ -94,39 +86,26 @@
 </div>
 <!-- Contact Section -->
 
- <!-- Achievement Corner -->
- <!--Hacktober Fest-->
+<!-- Achievement Corner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!--Hacktober Fest-->
 <h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h2>
-
 <div align="center"><b>🌱 Passed All Four Level of Hacktoberfest 2023 🌱</b> </div><br>
-
 <div align="center">
-<a herf = "https://holopin.io/@sumonta056">
-<img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="70%" >
-</a>
+<a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="70%" ></a>
 </div>
-
  <!--Hacktober Fest-->
-
- <!--Google Foobar -->
 <hr>
-
+ <!--Google Foobar -->
 <h3 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
-
 <div align="center"><b>🌱 Successfully Passed Level Two and Continuing... 🌱</b> </div><br>
-
 <div align="center">
-<a herf = "https://holopin.io/@sumonta056">
-<img src="https://github.com/Sumonta056/sumonta056/assets/61287791/9680d192-ec4f-46db-bd13-7f03a57005e3" width="70%" >
-</a>
+<a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/9680d192-ec4f-46db-bd13-7f03a57005e3" width="70%" ></a>
 </div>
-
  <!--Google Foobar -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
- 
+
 
  <!-- Banners 2nd Phase -->
 <p align='center'>
@@ -134,7 +113,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
 </p>
  <!-- Banners 2nd Phase -->
- 
+
 
  <!-- Typewriting Introduction -->
 
@@ -233,7 +212,6 @@
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumonta056&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
- 
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <!-- Contribution Statistics and Visuals -->
@@ -271,23 +249,17 @@
 <table border="0">
  <tr valign="top">
   <td width="58%">
-
- <div align='center'>
-   <a href="https://medium.com/@sumontasaha80">
-    <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79" width="100%" alt="Blogs Loading"/>
-  </a>
- </div>
-
+   <div align='center'>
+    <a href="https://medium.com/@sumontasaha80">
+      <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79" width="100%" alt="Blogs Loading"/>
+    </a>
+   </div>
   </td>
   <td width="30%">
-
-<a href="https://app.daily.dev/sumontasahamridul"><img src="https://api.daily.dev/devcards/v2/oy53egVldSfhhKhkvD69g.png?type=default&r=8q5" width="356" alt="Sumonta Saha (Mridul)'s Dev Card"/></a>
-
+  <a href="https://app.daily.dev/sumontasahamridul"><img src="https://api.daily.dev/devcards/v2/oy53egVldSfhhKhkvD69g.png?type=default&r=8q5" width="356" alt="Sumonta Saha (Mridul)'s Dev Card"/></a>
   </td>
  </tr>
 </table>
-
-
 
 |                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
 | :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -297,8 +269,8 @@
 |      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
-
 <!-- BLOG-POST-LIST:START -->
+
 - [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://medium.com/front-end-weekly/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-bcd79c8cd532?source=rss-afb68213da67------2)
 - [How to Get Daily GitHub Follower Updates via Email &lpar;No Coding Needed!&rpar;](https://dev.to/sumonta056/how-to-get-daily-github-follower-updates-via-email-no-coding-needed-1f33)
 - [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://medium.com/design-bootcamp/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-7108489ed766?source=rss-afb68213da67------2)
@@ -315,32 +287,26 @@
 <div align="center">
 <h2>📺 Latest Youtube Videos : <a href = "https://www.youtube.com/@LearnCodewithPS5638">Learn & Code</a></h2>
 
-
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Share Your University Experience | Help Students Choose the Right Subject | VortiBhai Bangladesh](https://ytcards.demolab.com/?id=QuV9ch3pxBA&title=Share+Your+University+Experience+%7C+Help+Students+Choose+the+Right+Subject+%7C+VortiBhai+Bangladesh&lang=en&timestamp=1746592002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Share Your University Experience | Help Students Choose the Right Subject | VortiBhai Bangladesh")](https://www.youtube.com/watch?v=QuV9ch3pxBA)
 [![Twitter Clone (Bangla Tutorial) Part 5: Register Modal Frontend (Part-1)](https://ytcards.demolab.com/?id=nELb8wreVmg&title=Twitter+Clone+%28Bangla+Tutorial%29+Part+5%3A+Register+Modal+Frontend+%28Part-1%29&lang=en&timestamp=1745838024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Twitter Clone (Bangla Tutorial) Part 5: Register Modal Frontend (Part-1)")](https://www.youtube.com/watch?v=nELb8wreVmg)
 [![I Built an AMAZING Java Game Inspired by Behula](https://ytcards.demolab.com/?id=ejwjOEfIORY&title=I+Built+an+AMAZING+Java+Game+Inspired+by+Behula&lang=en&timestamp=1745251210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "I Built an AMAZING Java Game Inspired by Behula")](https://www.youtube.com/watch?v=ejwjOEfIORY)
-<!-- END YOUTUBE-CARDS -->
 
+<!-- END YOUTUBE-CARDS -->
 
 </div>
 <!-- Youtube Section -->
 
 <!-- Footer -->
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  > 
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
 </p>
 <!-- Footer -->
 
 <!-- Projects and Repository -->
 
 <div align='center'>
-
-<!-- <h4 align="center"> 🏆 Best Projects </h4>
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Rent_IT-App&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/Rent_IT-App)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SUST_Autorickshaw_Management_System&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SUST_Autorickshaw_Management_System)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=EcoSync-Waste-Management-Website&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/EcoSync-Waste-Management-Website) -->
 
 <h4 align="center"> ✨ Most Stars Repositories</h4>
 
@@ -358,8 +324,10 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Follower-Notification-Action-Bot&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Follower-Notification-Action-Bot)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=sumonta056.github.io&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/sumonta056.github.io)
 
-<!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Intership-Preparation-2024&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/Intership-Preparation-2024) -->
 </div>
 
+<div align="center">
+<a href="https://www.buymeacoffee.com/sumontasahi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
