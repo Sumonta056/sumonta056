@@ -17,3 +17,6 @@ jobs:
         with:
           channel_id: UCPqV58lhxkekfnXxoeIl-Xw
           max_videos: 3
+          max_title_lines: 2
+          card_width: 250
+          
