@@ -311,6 +311,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Blog Section -->
 
+<!-- Youtube Section -->
+<div align="center">
+<h2>📺 Latest Youtube Videos : <a href = "https://www.youtube.com/@LearnCodewithPS5638">Learn & Code</a></h2>
+
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Share Your University Experience | Help Students Choose the Right Subject | VortiBhai Bangladesh](https://ytcards.demolab.com/?id=QuV9ch3pxBA&title=Share+Your+University+Experience+%7C+Help+Students+Choose+the+Right+Subject+%7C+VortiBhai+Bangladesh&lang=en&timestamp=1746592002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Share Your University Experience | Help Students Choose the Right Subject | VortiBhai Bangladesh")](https://www.youtube.com/watch?v=QuV9ch3pxBA)
+[![Twitter Clone (Bangla Tutorial) Part 5: Register Modal Frontend (Part-1)](https://ytcards.demolab.com/?id=nELb8wreVmg&title=Twitter+Clone+%28Bangla+Tutorial%29+Part+5%3A+Register+Modal+Frontend+%28Part-1%29&lang=en&timestamp=1745838024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twitter Clone (Bangla Tutorial) Part 5: Register Modal Frontend (Part-1)")](https://www.youtube.com/watch?v=nELb8wreVmg)
+[![I Built an AMAZING Java Game Inspired by Behula](https://ytcards.demolab.com/?id=ejwjOEfIORY&title=I+Built+an+AMAZING+Java+Game+Inspired+by+Behula&lang=en&timestamp=1745251210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Built an AMAZING Java Game Inspired by Behula")](https://www.youtube.com/watch?v=ejwjOEfIORY)
+<!-- END YOUTUBE-CARDS -->
+
+
+</div>
+<!-- Youtube Section -->
+
 <!-- Footer -->
 <p align='center'>
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  > 
@@ -346,10 +361,5 @@
 <!-- [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=Intership-Preparation-2024&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/Intership-Preparation-2024) -->
 </div>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Share Your University Experience | Help Students Choose the Right Subject | VortiBhai Bangladesh](https://ytcards.demolab.com/?id=QuV9ch3pxBA&title=Share+Your+University+Experience+%7C+Help+Students+Choose+the+Right+Subject+%7C+VortiBhai+Bangladesh&lang=en&timestamp=1746592002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Share Your University Experience | Help Students Choose the Right Subject | VortiBhai Bangladesh")](https://www.youtube.com/watch?v=QuV9ch3pxBA)
-[![Twitter Clone (Bangla Tutorial) Part 5: Register Modal Frontend (Part-1)](https://ytcards.demolab.com/?id=nELb8wreVmg&title=Twitter+Clone+%28Bangla+Tutorial%29+Part+5%3A+Register+Modal+Frontend+%28Part-1%29&lang=en&timestamp=1745838024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twitter Clone (Bangla Tutorial) Part 5: Register Modal Frontend (Part-1)")](https://www.youtube.com/watch?v=nELb8wreVmg)
-[![I Built an AMAZING Java Game Inspired by Behula](https://ytcards.demolab.com/?id=ejwjOEfIORY&title=I+Built+an+AMAZING+Java+Game+Inspired+by+Behula&lang=en&timestamp=1745251210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Built an AMAZING Java Game Inspired by Behula")](https://www.youtube.com/watch?v=ejwjOEfIORY)
-<!-- END YOUTUBE-CARDS -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
