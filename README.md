@@ -270,11 +270,11 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Run Frontend &amp; Backend Together with One Command &lpar;No Docker Needed&rpar;](https://dev.to/sumonta056/how-to-run-frontend-backend-together-with-one-command-no-docker-needed-29nd)
 - [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://medium.com/front-end-weekly/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-bcd79c8cd532?source=rss-afb68213da67------2)
 - [How to Get Daily GitHub Follower Updates via Email &lpar;No Coding Needed!&rpar;](https://dev.to/sumonta056/how-to-get-daily-github-follower-updates-via-email-no-coding-needed-1f33)
 - [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://medium.com/design-bootcamp/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-7108489ed766?source=rss-afb68213da67------2)
 - [Portfolio That Got Me CGPA 4 in university | Built with HTML, CSS &amp; JavaScript](https://dev.to/sumonta056/portfolio-that-got-me-cgpa-4-in-university-built-with-html-css-javascript-2api)
-- [From 360 to 158 BDT: How Strategic Problem Solving Cut My Cefalo Office-Home Commute Costs by 56%…](https://levelup.gitconnected.com/from-360-to-158-bdt-how-strategic-problem-solving-cut-my-cefalo-office-home-commute-costs-by-56-742d3299ec67?source=rss-afb68213da67------2)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
