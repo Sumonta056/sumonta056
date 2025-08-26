@@ -24,7 +24,7 @@
 <div align="center" width="150px">
 
 I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
-I am a content writer, **[Learn & Code Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (400+ Subscribers)  <br />
+I am a content writer, **[Code & Career Golpo Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (500+ Subscribers)  <br />
 Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
 
 </div>
