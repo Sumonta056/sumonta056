@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://media.licdn.com/dms/image/v2/D5612AQEqDjzD3pbC1g/article-cover_image-shrink_720_1280/B56ZbNAdkTH4AM-/0/1747196175322?e=1754524800&v=beta&t=WKTbKpkAWLtnqjJBbpQjG9nt2KEqV1vsuVqocp1bd_0" width="80%"></a> 
+<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="80%"></a> 
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
