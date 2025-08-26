@@ -1,7 +1,7 @@
  <!-- Banner & Links -->
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
-<a href="https://www.youtube.com/@LearnCodewithPS5638"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=490&lines=(Subscribe)+Learn+%26+Code+with+Promi+%26+Sumonta" alt="Typing SVG" /</a>
+<a href="https://www.youtube.com/@LearnCodewithPS5638"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Code+%26+Career+Golpo+YouTube" alt="Typing SVG" /</a>
 </div>
 
 <div align="center">
