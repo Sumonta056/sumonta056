@@ -24,8 +24,8 @@
 <div align="center" width="150px">
 
 I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
-I am a content writer, **[Code & Career Golpo Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (500+ Subscribers)  <br />
-Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
+I am a ceo and content writer, **[Code & Career Golpo Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (800+ Subscribers) <br />
+Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
 
 </div>
 
@@ -67,7 +67,7 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
 
 <div align="center">
 
-## 📞 Connect with me
+<h3 align="center"><b>📞 Connect with me</b> </h3>
 
 <p align="center">
 <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
@@ -89,7 +89,7 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
 <!-- Achievement Corner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--Hacktober Fest-->
-<h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h2>
+<h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h3>
 <div align="center"><b>🌱 Passed All Four Level of Hacktoberfest 2023 🌱</b> </div><br>
 <div align="center">
 <a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="70%" ></a>
@@ -106,14 +106,12 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
 
-
  <!-- Banners 2nd Phase -->
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
 </p>
  <!-- Banners 2nd Phase -->
-
 
  <!-- Typewriting Introduction -->
 
@@ -130,8 +128,8 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
  <!-- About Me -->
 <p align='left'>
 - 🔭 <b>Software Engineering</b> graduated from <b>SUST</b><br>
-- 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
-- ✨ Maintaining a Newsletter & Youtube Channel : Learn & Code <br>
+- 🌱 I’m currently exploring in depth full stack web development 😁<br>
+- ✨ Maintaining a Newsletter & Youtube Channel : Code & Career Golpo <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
 - 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
 - ⚡ Interests : How chatgpt going to take my job !😏<br>
@@ -162,6 +160,7 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
@@ -270,6 +269,7 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
 | 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Weird JS Series 1: Difference Between ?, ??, and ||](https://javascript.plainenglish.io/weird-js-series-1-difference-between-and-b510acab078b?source=rss-afb68213da67------2)
 - [Weird JS Series 1: Difference Between ?, ??, and ||](https://levelup.gitconnected.com/weird-js-series-1-difference-between-and-383507a10689?source=rss-afb68213da67------2)
 - [My Code Review Experience as a Junior Developer: What I Learned and How to Review as a Team?](https://levelup.gitconnected.com/my-code-review-experience-as-a-junior-developer-what-i-learned-and-how-to-review-as-a-team-2166a85df1c2?source=rss-afb68213da67------2)
@@ -287,11 +287,13 @@ Besides, I am studying <b>Software Engineering</b> in <b>Shahjalal University of
 <h2>📺 Latest Youtube Videos : <a href = "https://www.youtube.com/@LearnCodewithPS5638">Learn & Code</a></h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![How to Start Open-Source Contribution as a Beginner | A to Z Guide | Hacktoberfest 2025](https://ytcards.demolab.com/?id=VKtK0SVRM74&title=How+to+Start+Open-Source+Contribution+as+a+Beginner+%7C+A+to+Z+Guide+%7C+Hacktoberfest+2025&lang=en&timestamp=1760331635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "How to Start Open-Source Contribution as a Beginner | A to Z Guide | Hacktoberfest 2025")](https://www.youtube.com/watch?v=VKtK0SVRM74)
 [![সফটওয়্যার ইন্ডাস্ট্রিতে চাকরি পাওয়ার জন্য University Life এ যে ১০ টি কাজ অবশ্যই করা উচিত](https://ytcards.demolab.com/?id=v8eL9V15LUY&title=%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87+%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF+%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0+%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF+University+Life+%E0%A6%8F+%E0%A6%AF%E0%A7%87+%E0%A7%A7%E0%A7%A6+%E0%A6%9F%E0%A6%BF+%E0%A6%95%E0%A6%BE%E0%A6%9C%C2%A0%E0%A6%85%E0%A6%AC%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%87%C2%A0%E0%A6%95%E0%A6%B0%E0%A6%BE%C2%A0%E0%A6%89%E0%A6%9A%E0%A6%BF%E0%A6%A4&lang=en&timestamp=1759548276&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "সফটওয়্যার ইন্ডাস্ট্রিতে চাকরি পাওয়ার জন্য University Life এ যে ১০ টি কাজ অবশ্যই করা উচিত")](https://www.youtube.com/watch?v=v8eL9V15LUY)
 [![AI/ML Internship পাওয়ার জন্য CV কেমন হওয়া উচিত? | CV Review (Part 4)](https://ytcards.demolab.com/?id=kHDPlUGrxxo&title=AI%2FML+Internship+%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0+%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF+CV+%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8+%E0%A6%B9%E0%A6%93%E0%A7%9F%E0%A6%BE+%E0%A6%89%E0%A6%9A%E0%A6%BF%E0%A6%A4%3F+%7C+CV+Review+%28Part+4%29&lang=en&timestamp=1757387125&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "AI/ML Internship পাওয়ার জন্য CV কেমন হওয়া উচিত? | CV Review (Part 4)")](https://www.youtube.com/watch?v=kHDPlUGrxxo)
 [![সফটওয়্যার কোম্পানিতে Internship পাওয়ার জন্য CV তে যে ভুলগুলো করা যাবে না | CV Review (Part 3)](https://ytcards.demolab.com/?id=jJLR0dI0FXA&title=%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0+%E0%A6%95%E0%A7%8B%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87+Internship+%E0%A6%AA%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0+%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF+CV+%E0%A6%A4%E0%A7%87+%E0%A6%AF%E0%A7%87+%E0%A6%AD%E0%A7%81%E0%A6%B2%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B+%E0%A6%95%E0%A6%B0%E0%A6%BE+%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87+%E0%A6%A8%E0%A6%BE+%7C+CV%C2%A0Review%C2%A0%28Part%C2%A03%29&lang=en&timestamp=1757076908&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "সফটওয়্যার কোম্পানিতে Internship পাওয়ার জন্য CV তে যে ভুলগুলো করা যাবে না | CV Review (Part 3)")](https://www.youtube.com/watch?v=jJLR0dI0FXA)
 [![Top AI Tools Used by 49K Engineers on Stack Overflow Survey | My Thoughts](https://ytcards.demolab.com/?id=6a4pOHyGOFM&title=Top+AI+Tools+Used+by+49K+Engineers+on+Stack+Overflow+Survey+%7C+My+Thoughts&lang=en&timestamp=1756870585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "Top AI Tools Used by 49K Engineers on Stack Overflow Survey | My Thoughts")](https://www.youtube.com/watch?v=6a4pOHyGOFM)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
