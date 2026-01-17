@@ -1,4 +1,3 @@
- <!-- Banner & Links -->
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
 <a href="https://www.youtube.com/@codecareergolpo5638"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Code+%26+Career+Golpo+YouTube" alt="Typing SVG" /</a>
@@ -8,7 +7,38 @@
 <a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="70%"></a> 
 </div>
 
-![](https://hit.yhype.me/github/profile?account_id=61287791)
+
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Sumonta Saha Mridul </h1>
+
+<div align="center" width="150px">
+ 
+I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
+I am a CEO and content writer, **[Code & Career Golpo Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (800+ Subscribers) <br />
+Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
+
+</div>
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" />
+<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/sumonta056"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/sumonta056">
+</p>
+ 
+<!-- <p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+</p> -->
+
+<!-- <p align="center">
+<a herf = "https://wakatime.com/@sumonta056">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" />
+</a>
+</p> -->
+
+<p align="center">
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumonta056&theme=moltack" />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
+<img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
+</p>
 
 <div align="center">
 <a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/overlay/1756869769205/single-media-viewer/?profileId=ACoAAC8p7dkBpz5hNJ6-buueAgtGodlWOk_W6Wo" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
@@ -16,57 +46,8 @@
 <a href = "https://sumonta056.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
 </div>
 
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" />
-<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
-<br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sumonta056"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/sumonta056">
-</p>
 
- <!-- Banner & Links -->
-
- <!-- Heading and BIO -->
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Sumonta Saha Mridul </h1>
-
-
-<div align="center" width="150px">
-
-I am currently an <b>Associate Software Engineer I </b> at **[Cefalo Bangladesh Ltd](https://www.linkedin.com/company/cefalo-as/posts/?feedView=all)**. <br />
-I am a CEO and content writer, **[Code & Career Golpo Newsletter](https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512)** (800+ Subscribers) <br />
-Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
-
-</div>
-
- <!-- Heading and BIO -->
-
- <!-- Github Readme Stats -->
-<p align='center'>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  /> -->
-</p>
- <!-- Github Readme Stats -->
-
- <!-- Waka Time in Depth Stats -->
-<p align="center">
-<a herf = "https://wakatime.com/@sumonta056">
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a> -->
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumonta056&theme=moltack" />
-</p>
-<!-- Waka Time in Depth Stats -->
-
-<!-- Github Profile Summary Cards -->
-<p align="center">
-<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
-<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
-</p>
-
-<!-- Github Profile Summary Cards -->
-
-<!-- Contact Section -->
-
-<div align="center">
-
-<h3 align="center"><b>📞 Connect with me</b> </h3>
+<br/>
 
 <p align="center">
 <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
@@ -82,28 +63,54 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <a href="https://leetcode.com/Sumonta056/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
 </p>
 
-</div>
-<!-- Contact Section -->
 
-<!-- Achievement Corner -->
+<table border="0">
+  <tr valign="top">
+    <td width="47%">
+      <div align="center">
+       <h2><b>🏆 Open Source Contribution 🏆</b></h3>
+       <p><i>Hacktoberfest 2023 Participation Badges</i></p>
+        <div>
+          <a href="https://holopin.io/@sumonta056">
+            <img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="80%" />
+          </a>
+        </div>
+        <p>🌱 Passed all four levels of Hacktoberfest 2023 🌱</p>
+      </div>
+    </td>
+    <td width="47%">
+      <div align="center">
+        <h2>🏆 Invited to Google Foobar 🏆</h2>
+        <p><i>Google’s Secret Hiring Challenge</i></p>
+        <div>
+          <a href="https://holopin.io/@sumonta056">
+            <img src="https://github.com/user-attachments/assets/2d13dfb0-fe46-4b9d-a6fb-d79e0bf23c2a" width="90%" />
+          </a>
+        </div>
+        <br/>
+        <p>🌱 Successfully passed Level Two and continuing... 🌱</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <!--Hacktober Fest-->
-<h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h3>
+<!-- <h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h3>
 <div align="center"><b>🌱 Passed All Four Level of Hacktoberfest 2023 🌱</b> </div><br>
 <div align="center">
 <a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/f97aaaa3-d63f-4ef9-9d63-7151a3a5e0af" width="70%" ></a>
-</div>
+</div> -->
  <!--Hacktober Fest-->
-<hr>
  <!--Google Foobar -->
-<h3 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
+<!-- <h3 align="center"><b>🏆Got Invitation From Google Foobar : Google Secret Hiring Challenge.🏆</b> </h2>
 <div align="center"><b>🌱 Successfully Passed Level Two and Continuing... 🌱</b> </div><br>
 <div align="center">
 <a herf = "https://holopin.io/@sumonta056"><img src="https://github.com/Sumonta056/sumonta056/assets/61287791/9680d192-ec4f-46db-bd13-7f03a57005e3" width="70%" ></a>
-</div>
- <!--Google Foobar -->
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <!-- Achievement Corner -->
+</div> -->
+
 
  <!-- Banners 2nd Phase -->
 <p align='center'>
@@ -337,3 +344,5 @@ Donate if you wish to support 💗:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![](https://hit.yhype.me/github/profile?account_id=61287791)
