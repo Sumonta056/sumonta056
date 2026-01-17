@@ -200,7 +200,6 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
 
@@ -219,110 +218,55 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=tokyo-day" width="70%" />
 </p>
 
-
-
-
-
-<!-- Blog Section -->
 <div align="center">
-<h2>✍🏻 Read My Blogs on [ 
-<a href = "https://medium.com/@sumontasaha80" >Medium </a>, 
-<a href = "https://dev.to/sumonta056" >Dev.to </a>, 
-<a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" >Linkedin</a>]</h2>
 
-<table border="0">
-  <tr valign="top">
-    <!-- LEFT BOX : 2x2 GRID -->
-    <td width="600">
-      <table border="0" cellspacing="10">
-        <tr>
-          <td width="290">
-            <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
-            <a href="https://medium.com/@sumontasaha80">
-              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
-                   width="100%" alt="Blog 1" />
-            </a>
-          </td>
-          <td width="290">
-           <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
-            <a href="https://medium.com/@sumontasaha80">
-              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
-                   width="100%" alt="Blog 2" />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td width="290">
-           <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
-            <a href="https://medium.com/@sumontasaha80">
-              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
-                   width="100%" alt="Blog 3" />
-            </a>
-          </td>
-          <td width="290">
-            <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
-            <a href="https://medium.com/@sumontasaha80">
-              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
-                   width="100%" alt="Blog 4" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- RIGHT BOX : DEV CARD -->
-    <td width="360" align="center">
-      <a href="https://app.daily.dev/sumontasahamridul">
-        <img
-          src="https://api.daily.dev/devcards/v2/oy53egVldSfhhKhkvD69g.png?type=default&r=8q5"
-          width="356"
-          alt="Sumonta Saha (Mridul)'s Dev Card" />
-      </a>
-    </td>
+| LinkedIn | Medium | Hashnode | Substack | Dev.to |
+|----------|--------|----------|----------|--------|
+| [🔗 900+ Subscriber](https://www.linkedin.com/newsletters/code-career-golpo-7309186050084544512/) | [✍️ 160+ Followers](https://medium.com/@sumontasaha80) | [🧠 20+ Followers](https://hashnode.com/@sumontasaha) | [📬 20 Subscriber](https://sumontasahamridul.substack.com) | [💻 2000+ Followers](https://dev.to/sumonta056) |
 
-  </tr>
-</table>
 
+<img width="80%"  alt="Untitled design" src="https://github.com/user-attachments/assets/3bbbea98-3edc-4e5c-baee-cd6f479f6884" />
 
 <table>
   <tr>
-    <th align="left" width="60%">📝 Blog (Most Popular Articles)</th>
-    <th align="left" width="40%">📊 Stats</th>
+    <th align="left" width="55%">📝 Blog (Most Popular Articles)</th>
+    <th align="left" width="45%">📊 Stats</th>
   </tr>
 
   <tr>
-    <td width="60%">
+    <td width="55%">
       <a href="https://app.daily.dev/posts/i-built-this-github-readme-to-showcase-my-skills-get-an-internship-at-a-software-company--x2itxh5gq">
         I Built This GitHub README to Showcase My Skills & Get an Internship at a Software Company!
       </a>
     </td>
-    <td width="40%">2.1K Views · 140 Upvotes · 34 Comments</td>
+    <td width="45%">2.1K Views · 140 Upvotes · 34 Comments</td>
   </tr>
 
   <tr>
-    <td width="60%">
+    <td width="55%">
       <a href="https://app.daily.dev/posts/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-aqgbjdiqk">
         How to Contribute to Open Source: A Step-by-Step Guide for Beginners
       </a>
     </td>
-    <td width="40%">129 Views · 23 Upvotes · 3 Comments</td>
+    <td width="45%">129 Views · 23 Upvotes · 3 Comments</td>
   </tr>
 
   <tr>
-    <td width="60%">
+    <td width="55%">
       <a href="https://app.daily.dev/posts/2oqqzn7yu">
         A Day Without AI: Seems Like I Lost My Brain? My Thoughts
       </a>
     </td>
-    <td width="40%">509K Views · 109 Upvotes · 28 Comments</td>
+    <td width="45%">509K Views · 109 Upvotes · 28 Comments</td>
   </tr>
 
   <tr>
-    <td width="60%">
+    <td width="55%">
       <a href="https://app.daily.dev/posts/xpj7sezwv">
         My Code Review Experience as a Junior Developer: What I Learned and How to Review as a Team?
       </a>
     </td>
-    <td width="40%">170K Views · 63 Upvotes · 4 Comments</td>
+    <td width="45%">170K Views · 63 Upvotes · 4 Comments</td>
   </tr>
 </table>
 </div>
@@ -330,12 +274,9 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <!-- BLOG-POST-LIST:START remove -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
 <!-- Youtube Section -->
 <div align="center">
-<h2>📺 Latest Youtube Videos : <a href = "https://www.youtube.com/@codecareergolpo5638">Learn & Code</a></h2>
+<h2>[ Latest Youtube Videos : <a href = "https://www.youtube.com/@codecareergolpo5638">Code & Career Golpo</a> ]</h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![কীভাবে আমি IELTS Listening-এ Band 8 পেলাম? | Cambridge Strategy Explained | Real Practice Tips](https://ytcards.demolab.com/?id=4nmaPWQOdYE&title=%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87+%E0%A6%86%E0%A6%AE%E0%A6%BF+IELTS+Listening-%E0%A6%8F+Band+8+%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%AE%3F+%7C+Cambridge+Strategy+Explained+%7C+Real+Practice+Tips&lang=en&timestamp=1767963611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "কীভাবে আমি IELTS Listening-এ Band 8 পেলাম? | Cambridge Strategy Explained | Real Practice Tips")](https://www.youtube.com/watch?v=4nmaPWQOdYE)
@@ -352,7 +293,7 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 
 <!-- Photography Section -->
 <div align="center">
-<h3> 📱 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h2>
+<h3> [ Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@Unplash</a> ]</h2>
 <img src="images/Photography/3.gif" width="80%" >
 </div>
 <!-- Instagram + Twitter FollowLinks -->
@@ -361,26 +302,31 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
 </p>
 <!-- Instagram + Twitter FollowLinks -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Photography Section -->
 
-<!-- Footer -->
+<!-- left -->
 <p align='center'>
 <img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+ <div align="center">
+<a href="https://www.buymeacoffee.com/sumontasahi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</div>
 </p>
-<!-- Footer -->
+<!-- left-->
 
-<!-- Projects and Repository -->
+<!-- right -->
 
-<div align='center'>
+<!-- <div align='center'>
 
 <h4 align="center"> ✨ Most Stars Repositories</h4>
 
-![](https://m3-markdown-badges.vercel.app/stars/1/1/sumonta056/GitHub-Tutorial)
-![](https://m3-markdown-badges.vercel.app/stars/3/2/sumonta056/SWE-3-2-Semester-Resources)
+- [Github Tutorial](https://github.com/Sumonta056/GitHub-Tutorial) -
+- ![](https://m3-markdown-badges.vercel.app/stars/1/1/sumonta056/GitHub-Tutorial) 
+[Software Engineering Resources](https://github.com/Sumonta056/SWE-3-2-Semester-Resources) <br/>
+![](https://m3-markdown-badges.vercel.app/stars/3/2/sumonta056/SWE-3-2-Semester-Resources) <br/>
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Tutorial)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/SWE-3-2-Semester-Resources)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Tutorial&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=SWE-3-2-Semester-Resources&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)]
 
 <h4 align="center"> 🏆 Open Source Repositories</h4>
 
@@ -390,11 +336,9 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=GitHub-Follower-Notification-Action-Bot&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/GitHub-Follower-Notification-Action-Bot)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sumonta056&repo=sumonta056.github.io&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/Sumonta056/sumonta056.github.io)
 
-</div>
+</div> -->
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/sumontasahi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</div>
+
 
 <div align="center">
  
