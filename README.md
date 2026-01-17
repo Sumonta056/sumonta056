@@ -94,8 +94,6 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <!--Hacktober Fest-->
 <!-- <h3 align="center"><b>🏆Open Source Contribution : Hacktoberfest 2023 Participation Badges 🏆</b> </h3>
@@ -113,13 +111,15 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 
 
  <!-- Banners 2nd Phase -->
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
-</p>
+</p> -->
  <!-- Banners 2nd Phase -->
 
- <!-- Typewriting Introduction -->
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/7f620d0b-b598-4709-aaf1-b1d3d44911dd" />
+
+<!-- Typewriting Introduction -->
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Software+Engineer+Student;I+am+also+a+Software+Developer+;Love+to+take+Photos+and+write+blogs)](https://git.io/typing-svg)
 
@@ -127,17 +127,16 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 
  <!-- Banners 3rd Phase : About Me -->
 <p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%">
 </p>
  <!-- Banners 3rd Phase : About Me -->
 
  <!-- About Me -->
 <p align='left'>
-- 🔭 <b>Software Engineering</b> graduated from <b>SUST</b><br>
 - 🌱 I’m currently exploring in depth full stack web development 😁<br>
 - ✨ Maintaining a Newsletter & Youtube Channel : Code & Career Golpo <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
+- 🥅 <i><b>2026 Goals</b></i>: Switch to a new Tech Language <br>
 - ⚡ Interests : How chatgpt going to take my job !😏<br>
 </p>
  <!-- About Me -->
@@ -166,6 +165,7 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
@@ -191,9 +191,8 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo3.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg)
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
 
 #### 🚦 Version Control & Documentation Tools
@@ -201,15 +200,13 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
-- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg)
 
 <!-- Skill Section -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Contribution Stack -->
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
 
 <!-- Contribution Statistics and Visuals -->
@@ -218,30 +215,13 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumonta056&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
-<!-- Contribution Statistics and Visuals -->
-
-<!-- Activity Graph -->
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=tokyo-day)
-
-<!-- Activity Graph -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Contribution Stack -->
-
-<!-- Photography Section -->
-<div align="center">
-<h3> 📱 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h2>
-<img src="images/Photography/3.gif" width="80%" >
-</div>
-<!-- Instagram + Twitter FollowLinks -->
-<p align='center'>
-<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" width="35%" /></a> 
-<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=tokyo-day" width="70%" />
 </p>
-<!-- Instagram + Twitter FollowLinks -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Photography Section -->
+
+
+
+
 
 <!-- Blog Section -->
 <div align="center">
@@ -251,41 +231,107 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" >Linkedin</a>]</h2>
 
 <table border="0">
- <tr valign="top">
-  <td width="58%">
-   <div align='center'>
-    <a href="https://medium.com/@sumontasaha80">
-      <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79" width="100%" alt="Blogs Loading"/>
-    </a>
-   </div>
-  </td>
-  <td width="30%">
-  <a href="https://app.daily.dev/sumontasahamridul"><img src="https://api.daily.dev/devcards/v2/oy53egVldSfhhKhkvD69g.png?type=default&r=8q5" width="356" alt="Sumonta Saha (Mridul)'s Dev Card"/></a>
-  </td>
- </tr>
+  <tr valign="top">
+    <!-- LEFT BOX : 2x2 GRID -->
+    <td width="600">
+      <table border="0" cellspacing="10">
+        <tr>
+          <td width="290">
+            <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
+            <a href="https://medium.com/@sumontasaha80">
+              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
+                   width="100%" alt="Blog 1" />
+            </a>
+          </td>
+          <td width="290">
+           <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
+            <a href="https://medium.com/@sumontasaha80">
+              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
+                   width="100%" alt="Blog 2" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td width="290">
+           <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
+            <a href="https://medium.com/@sumontasaha80">
+              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
+                   width="100%" alt="Blog 3" />
+            </a>
+          </td>
+          <td width="290">
+            <p align="center"><b><a href = "https://medium.com/@sumontasaha80" >Medium </a></b></p>
+            <a href="https://medium.com/@sumontasaha80">
+              <img src="https://github.com/user-attachments/assets/e74d390a-6914-4124-9ae6-4be4645b2e79"
+                   width="100%" alt="Blog 4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- RIGHT BOX : DEV CARD -->
+    <td width="360" align="center">
+      <a href="https://app.daily.dev/sumontasahamridul">
+        <img
+          src="https://api.daily.dev/devcards/v2/oy53egVldSfhhKhkvD69g.png?type=default&r=8q5"
+          width="356"
+          alt="Sumonta Saha (Mridul)'s Dev Card" />
+      </a>
+    </td>
+
+  </tr>
 </table>
 
-|                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
-| :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  SOLID Principles: The Key to Writing Clean & High-Quality Code  |  👁️ 518+  |               **[👉 Medium](https://medium.com/nerd-for-tech/solid-principles-the-key-to-writing-clean-high-quality-code-9a8f88ea0a8)**               |
-|         Basic Things About HTTP Cookies and How It Works         | 👁️ 1800+  |                            **[👉 Medium](https://sumontasaha80.medium.com/basic-things-about-http-cookies-1c1290f31f7b)**                             |
-|                    The Factory Design Pattern                    | 👁️ 1400+  |                                                  **[👉 Medium](https://medium.com/p/ba150444c8a7)**                                                   |
-|      First Hackathon Experience and Some Tips for Beginners      |  👁️ 200+  |                                                  **[👉 Medium](https://medium.com/p/945063ae8e66)**                                                   |
-| 17 Must-Try VS Code Extensions for Productivity and Time Savings |  👁️ 300+  | **[👉 Dev.to](https://dev.to/sumonta056/enhance-your-coding-journey-17-must-try-vs-code-extensions-for-enhanced-productivity-and-time-savings-3lo1)** |
 
-<!-- BLOG-POST-LIST:START -->
+<table>
+  <tr>
+    <th align="left" width="60%">📝 Blog (Most Popular Articles)</th>
+    <th align="left" width="40%">📊 Stats</th>
+  </tr>
 
-- [Weird JS Series 1: Difference Between ?, ??, and ||](https://javascript.plainenglish.io/weird-js-series-1-difference-between-and-b510acab078b?source=rss-afb68213da67------2)
-- [Weird JS Series 1: Difference Between ?, ??, and ||](https://levelup.gitconnected.com/weird-js-series-1-difference-between-and-383507a10689?source=rss-afb68213da67------2)
-- [My Code Review Experience as a Junior Developer: What I Learned and How to Review as a Team?](https://levelup.gitconnected.com/my-code-review-experience-as-a-junior-developer-what-i-learned-and-how-to-review-as-a-team-2166a85df1c2?source=rss-afb68213da67------2)
-- [My Code Review Experience as a Junior Developer: What I Learned and How to Review as a Team?](https://dev.to/sumonta056/my-code-review-experience-as-a-junior-developer-what-i-learned-and-how-to-review-as-a-team-25ap)
-- [A Day Without AI: Seems Like I Lost My Brain? My Thoughts](https://javascript.plainenglish.io/a-day-without-ai-seems-like-i-lost-my-brain-my-thoughts-9589ab554459?source=rss-afb68213da67------2)
-<!-- BLOG-POST-LIST:END -->
+  <tr>
+    <td width="60%">
+      <a href="https://app.daily.dev/posts/i-built-this-github-readme-to-showcase-my-skills-get-an-internship-at-a-software-company--x2itxh5gq">
+        I Built This GitHub README to Showcase My Skills & Get an Internship at a Software Company!
+      </a>
+    </td>
+    <td width="40%">2.1K Views · 140 Upvotes · 34 Comments</td>
+  </tr>
 
+  <tr>
+    <td width="60%">
+      <a href="https://app.daily.dev/posts/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-aqgbjdiqk">
+        How to Contribute to Open Source: A Step-by-Step Guide for Beginners
+      </a>
+    </td>
+    <td width="40%">129 Views · 23 Upvotes · 3 Comments</td>
+  </tr>
+
+  <tr>
+    <td width="60%">
+      <a href="https://app.daily.dev/posts/2oqqzn7yu">
+        A Day Without AI: Seems Like I Lost My Brain? My Thoughts
+      </a>
+    </td>
+    <td width="40%">509K Views · 109 Upvotes · 28 Comments</td>
+  </tr>
+
+  <tr>
+    <td width="60%">
+      <a href="https://app.daily.dev/posts/xpj7sezwv">
+        My Code Review Experience as a Junior Developer: What I Learned and How to Review as a Team?
+      </a>
+    </td>
+    <td width="40%">170K Views · 63 Upvotes · 4 Comments</td>
+  </tr>
+</table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Blog Section -->
+<!-- BLOG-POST-LIST:START remove -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 
 <!-- Youtube Section -->
 <div align="center">
@@ -303,6 +349,21 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 
 </div>
 <!-- Youtube Section -->
+
+
+<!-- Photography Section -->
+<div align="center">
+<h3> 📱 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h2>
+<img src="images/Photography/3.gif" width="80%" >
+</div>
+<!-- Instagram + Twitter FollowLinks -->
+<p align='center'>
+<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" width="35%" /></a> 
+<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png" width="35%" /></a> 
+</p>
+<!-- Instagram + Twitter FollowLinks -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Photography Section -->
 
 <!-- Footer -->
 <p align='center'>
