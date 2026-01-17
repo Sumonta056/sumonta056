@@ -225,48 +225,48 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 | [🔗 900+ Subscriber](https://www.linkedin.com/newsletters/code-career-golpo-7309186050084544512/) | [✍️ 160+ Followers](https://medium.com/@sumontasaha80) | [🧠 20+ Followers](https://hashnode.com/@sumontasaha) | [📬 20 Subscriber](https://sumontasahamridul.substack.com) | [💻 2000+ Followers](https://dev.to/sumonta056) |
 
 
-<img width="80%"  alt="Untitled design" src="https://github.com/user-attachments/assets/3bbbea98-3edc-4e5c-baee-cd6f479f6884" />
+<img width="92%"  alt="Untitled design" src="https://github.com/user-attachments/assets/3bbbea98-3edc-4e5c-baee-cd6f479f6884" />
 
 <table>
   <tr>
-    <th align="left" width="55%">📝 Blog (Most Popular Articles)</th>
-    <th align="left" width="45%">📊 Stats</th>
+    <th align="left" width="57%">📝 Blog (Most Popular Articles)</th>
+    <th align="left" width="43%">📊 Stats</th>
   </tr>
 
   <tr>
-    <td width="55%">
+    <td width="57%">
       <a href="https://app.daily.dev/posts/i-built-this-github-readme-to-showcase-my-skills-get-an-internship-at-a-software-company--x2itxh5gq">
         I Built This GitHub README to Showcase My Skills & Get an Internship at a Software Company!
       </a>
     </td>
-    <td width="45%">2.1K Views · 140 Upvotes · 34 Comments</td>
+    <td width="43%">2.1K Views · 140 Upvotes · 34 Comments</td>
   </tr>
 
   <tr>
-    <td width="55%">
+    <td width="57%">
       <a href="https://app.daily.dev/posts/how-to-contribute-to-open-source-a-step-by-step-guide-for-beginners-aqgbjdiqk">
         How to Contribute to Open Source: A Step-by-Step Guide for Beginners
       </a>
     </td>
-    <td width="45%">129 Views · 23 Upvotes · 3 Comments</td>
+    <td width="43%">129 Views · 23 Upvotes · 3 Comments</td>
   </tr>
 
   <tr>
-    <td width="55%">
+    <td width="57%">
       <a href="https://app.daily.dev/posts/2oqqzn7yu">
         A Day Without AI: Seems Like I Lost My Brain? My Thoughts
       </a>
     </td>
-    <td width="45%">509K Views · 109 Upvotes · 28 Comments</td>
+    <td width="43%">509K Views · 109 Upvotes · 28 Comments</td>
   </tr>
 
   <tr>
-    <td width="55%">
+    <td width="57%">
       <a href="https://app.daily.dev/posts/xpj7sezwv">
         My Code Review Experience as a Junior Developer: What I Learned and How to Review as a Team?
       </a>
     </td>
-    <td width="45%">170K Views · 63 Upvotes · 4 Comments</td>
+    <td width="43%">170K Views · 63 Upvotes · 4 Comments</td>
   </tr>
 </table>
 </div>
@@ -274,9 +274,11 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <!-- BLOG-POST-LIST:START remove -->
 <!-- BLOG-POST-LIST:END -->
 
+![](https://hit.yhype.me/github/profile?account_id=61287791)
+
 <!-- Youtube Section -->
 <div align="center">
-<h2>[ Latest Youtube Videos : <a href = "https://www.youtube.com/@codecareergolpo5638">Code & Career Golpo</a> ]</h2>
+<h3>[ Latest Youtube Videos : <a href = "https://www.youtube.com/@codecareergolpo5638">Code & Career Golpo</a> ]</h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![কীভাবে আমি IELTS Listening-এ Band 8 পেলাম? | Cambridge Strategy Explained | Real Practice Tips](https://ytcards.demolab.com/?id=4nmaPWQOdYE&title=%E0%A6%95%E0%A7%80%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87+%E0%A6%86%E0%A6%AE%E0%A6%BF+IELTS+Listening-%E0%A6%8F+Band+8+%E0%A6%AA%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%AE%3F+%7C+Cambridge+Strategy+Explained+%7C+Real+Practice+Tips&lang=en&timestamp=1767963611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "কীভাবে আমি IELTS Listening-এ Band 8 পেলাম? | Cambridge Strategy Explained | Real Practice Tips")](https://www.youtube.com/watch?v=4nmaPWQOdYE)
@@ -294,7 +296,7 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <!-- Photography Section -->
 <div align="center">
 <h3> [ Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@Unplash</a> ]</h2>
-<img src="images/Photography/3.gif" width="80%" >
+<img src="images/Photography/3.gif" width="90%" >
 </div>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
@@ -349,4 +351,4 @@ Donate if you wish to support 💗:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://hit.yhype.me/github/profile?account_id=61287791)
+
