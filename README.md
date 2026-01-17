@@ -5,21 +5,29 @@
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="80%"></a> 
+<a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="70%"></a> 
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
 
 <div align="center">
-<a href = "https://drive.google.com/file/d/1MAtJjLgIn7ZznP7HfwimfYJyDlqCHmLv/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
+<a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/overlay/1756869769205/single-media-viewer/?profileId=ACoAAC8p7dkBpz5hNJ6-buueAgtGodlWOk_W6Wo" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
 <a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="240" height="42"></a>
-<a href = "https://sumonta-portfolio.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
+<a href = "https://sumonta056.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
 </div>
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" />
+<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/sumonta056"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/sumonta056">
+</p>
 
  <!-- Banner & Links -->
 
  <!-- Heading and BIO -->
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Sumonta Saha Mridul </h1>
+
 
 <div align="center" width="150px">
 
@@ -31,37 +39,28 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 
  <!-- Heading and BIO -->
 
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
-
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> <br>
-<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
-<br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sumonta056"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/sumonta056">
-</p>
-
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
-
  <!-- Github Readme Stats -->
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sumonta056&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  /> -->
 </p>
  <!-- Github Readme Stats -->
 
  <!-- Waka Time in Depth Stats -->
 <p align="center">
 <a herf = "https://wakatime.com/@sumonta056">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
-</p>
-  <!-- Waka Time in Depth Stats -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a> -->
 
-  <!-- Github Profile Summary Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumonta056&theme=moltack" />
+</p>
+<!-- Waka Time in Depth Stats -->
+
+<!-- Github Profile Summary Cards -->
 <p align="center">
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
 <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
-  <!-- Github Profile Summary Cards -->
+<!-- Github Profile Summary Cards -->
 
 <!-- Contact Section -->
 
