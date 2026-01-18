@@ -1,3 +1,10 @@
+## Resources
+
+- https://profile-summary-for-github.com/user/sumonta056
+- https://github-profile-summary-cards.vercel.app/demo.html
+- https://github-readme-streak-stats.herokuapp.com/demo/
+
+
 ## Skills Icons
 
 - [Skillicons](https://github.com/tandpfun/skill-icons#readme)
