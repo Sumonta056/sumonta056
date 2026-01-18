@@ -1,12 +1,24 @@
-## Resources
+**[Must Need : [Markdown Syntax Knowledge](https://www.markdownguide.org/getting-started/) & Basic HTML ]**
+
+# Resources
+
+- [All in one resources list](https://github.com/rzashakeri/beautify-github-profile)
+- [Typing Generator](https://readme-typing-svg.herokuapp.com/demo/?lines=Hi+I+am+Sumonta+Saha+Mridul;Content+Creator;SWE+Gradudate+SUST)
+- [Cool GIFS and Banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+
+
+### Stats & Profile Summary
 
 - https://profile-summary-for-github.com/user/sumonta056
 - https://github-profile-summary-cards.vercel.app/demo.html
 - https://github-readme-streak-stats.herokuapp.com/demo/
+- https://github.com/anuraghazra/github-readme-stats
 
 
 ## Skills Icons
 
+- https://marwin1991.github.io/profile-technology-icons/
+- https://github.com/ziadOUA/m3-Markdown-Badges
 - [Skillicons](https://github.com/tandpfun/skill-icons#readme)
 
 <p align="center">
