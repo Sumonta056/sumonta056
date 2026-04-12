@@ -272,6 +272,11 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 </div>
 
 <!-- BLOG-POST-LIST:START remove -->
+- [What is publication context-based configuration?](https://levelup.gitconnected.com/what-is-publication-context-based-configuration-ae9beb1edaec?source=rss-afb68213da67------2)
+- [Why Multitasking is More Dangerous Than You Think?](https://levelup.gitconnected.com/why-multitasking-is-more-dangerous-than-you-think-73cdec4942e5?source=rss-afb68213da67------2)
+- [I Wish I Knew Earlier!](https://levelup.gitconnected.com/i-wish-i-knew-earlier-5891b933b8c9?source=rss-afb68213da67------2)
+- [What is Varnish? How High Traffic Website like Newspaper so Loads Fast?](https://levelup.gitconnected.com/what-is-varnish-how-high-traffic-website-like-newspaper-so-loads-fast-8f839dbbd876?source=rss-afb68213da67------2)
+- [How I Escaped Tutorial Hell Switching to New Stack &lpar;Vue + Java&rpar; | Using AI as My Mentor](https://levelup.gitconnected.com/how-i-escaped-tutorial-hell-switching-to-new-stack-vue-java-using-ai-as-my-mentor-05fbe54adcda?source=rss-afb68213da67------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
