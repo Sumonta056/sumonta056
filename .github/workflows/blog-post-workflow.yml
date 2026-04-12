@@ -1,7 +1,5 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 0 * * 0" 
   workflow_dispatch:
 permissions:
   contents: write # To write the generated contents to the readme
