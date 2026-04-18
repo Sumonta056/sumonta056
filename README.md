@@ -40,27 +40,72 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
 </p>
 
+<!-- ===================== TOP BUTTONS ===================== -->
 <div align="center">
-<a href = "https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/overlay/1756869769205/single-media-viewer/?profileId=ACoAAC8p7dkBpz5hNJ6-buueAgtGodlWOk_W6Wo" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
-<a href = "https://medium.com/@sumontasaha80" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="240" height="42"></a>
-<a href = "https://sumonta056.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
-</div>
 
+<a href="https://your-cv-link.com">
+  <img src="https://img.shields.io/badge/My%20CV-Sumonta-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a> 
+
+<a href="https://medium.com/@sumontasaha80">
+  <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://sumonta056.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-red?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 <br/>
 
+<!-- ===================== SOCIAL ICONS ===================== -->
 <p align="center">
-<a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
-<a href="https://fb.com/sumonta.mridul"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook logo"  /></a>
-<a href="https://instagram.com/_sumonta_saha_"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
-<a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
-<a href="https://medium.com/@sumontasaha80" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sumontasaha80" height="30" width="42" /></a>
-<a href="https://twitter.com/sumonta_saha" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  /></a>
-<a href="https://www.youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  /></a>
-<a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  /></a>
-<a href="https://stackoverflow.com/users/13511410/sumonta-saha-mridul" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
-<a href="https://codeforces.com/profile/mR.sCraPPy" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  /></a>
-<a href="https://leetcode.com/Sumonta056/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
+
+<a href="mailto:sumontasaha80@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="32" />
+</a>
+
+<a href="https://fb.com/sumonta.mridul">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" />
+</a>
+
+<a href="https://instagram.com/_sumonta_saha_">
+  <img src="https://skillicons.dev/icons?i=instagram" height="32" />
+</a>
+
+<a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+</a>
+
+<a href="https://medium.com/@sumontasaha80">
+  <img src="https://skillicons.dev/icons?i=devto" height="32" />
+</a>
+
+<a href="https://twitter.com/sumonta_saha">
+  <img src="https://skillicons.dev/icons?i=twitter" height="32" />
+</a>
+
+<a href="https://www.youtube.com/channel/UC7AQeCEbjh6J7vX4FXn3O1g">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="32" />
+</a>
+
+<a href="https://linktr.ee/sumontasaha">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="32" />
+</a>
+
+<a href="https://stackoverflow.com/users/13511410/sumonta-saha-mridul">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="32" />
+</a>
+
+<a href="https://codeforces.com/profile/mR.sCraPPy">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" />
+</a>
+
+<a href="https://leetcode.com/Sumonta056/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" />
+</a>
+
 </p>
 
 
